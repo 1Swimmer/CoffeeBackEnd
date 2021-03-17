@@ -1,0 +1,2851 @@
+,Country,Year,Value,Pricetype
+0,Colombia,1990,0.6952,growers
+1,Kenya,1990,0.6057,growers
+2,Tanzania,1990,0.4082,growers
+3,Bolivia,1990,0.5178,growers
+4,Burundi,1990,0.5802,growers
+5,Cameroon,1990,0.3229,growers
+6,Costa Rica,1990,0.5849,growers
+7,Cuba,1990,1.7143,growers
+8,Congo,1990,,growers
+9,Dominican Republic,1990,0.6606,growers
+10,Ecuador,1990,0.3521,growers
+11,El Salvador,1990,0.5056,growers
+12,Guatemala,1990,0.5458,growers
+13,Haiti,1990,0.4128,growers
+14,Honduras,1990,0.5035,growers
+15,India,1990,0.6675,growers
+16,Jamaica,1990,1.7155,growers
+17,Madagascar,1990,,growers
+18,Malawi,1990,0.8487,growers
+19,Mexico,1990,0.7956,growers
+20,Nicaragua,1990,,growers
+21,Panama,1990,0.493,growers
+22,Papua New Guinea,1990,0.655,growers
+23,Peru,1990,0.9037,growers
+24,Rwanda,1990,0.742,growers
+25,Sri Lanka,1990,,growers
+26,Uganda,1990,0.1529,growers
+27,Venezuela,1990,,growers
+28,Zambia,1990,0.8975,growers
+29,Zimbabwe,1990,,growers
+30,Angola,1990,,growers
+31,Brazil,1990,0.5432,growers
+32,Ethiopia,1990,0.6109,growers
+33,Indonesia,1990,,growers
+34,Philippines,1990,,growers
+35,Thailand,1990,,growers
+36,Vietnam,1990,,growers
+37,Angola,1990,0.8566,growers
+38,Benin,1990,0.5376,growers
+39,Brazil,1990,0.3485,growers
+40,Burundi,1990,,growers
+41,Cameroon,1990,0.2833,growers
+42,Central African Republic,1990,0.3675,growers
+43,"Congo, Rep.",1990,0.1921,growers
+44,Cote d'Ivoire,1990,0.3341,growers
+45,Congo,1990,0.0452,growers
+46,Ecuador,1990,0.1906,growers
+47,Gabon,1990,0.4343,growers
+48,Ghana,1990,,growers
+49,Guinea,1990,0.3437,growers
+50,India,1990,0.4435,growers
+51,Indonesia,1990,0.2968,growers
+52,Liberia,1990,,growers
+53,Madagascar,1990,0.3245,growers
+54,Nigeria,1990,0.7052,growers
+55,Papua New Guinea,1990,0.266,growers
+56,Philippines,1990,0.3423,growers
+57,Sierra Leone,1990,0.2617,growers
+58,Sri Lanka,1990,0.269,growers
+59,Tanzania,1990,0.1701,growers
+60,Thailand,1990,0.3772,growers
+61,Togo,1990,0.2923,growers
+62,Trinidad and Tobago,1990,0.6259,growers
+63,Uganda,1990,0.0754,growers
+64,Vietnam,1990,0.3692,growers
+65,Colombia,1991,0.6713,growers
+66,Kenya,1991,0.5068,growers
+67,Tanzania,1991,0.495,growers
+68,Bolivia,1991,0.5242,growers
+69,Burundi,1991,0.5502,growers
+70,Cameroon,1991,0.2823,growers
+71,Costa Rica,1991,0.5273,growers
+72,Cuba,1991,1.7143,growers
+73,Congo,1991,,growers
+74,Dominican Republic,1991,0.6264,growers
+75,Ecuador,1991,0.3618,growers
+76,El Salvador,1991,0.4454,growers
+77,Guatemala,1991,0.5753,growers
+78,Haiti,1991,0.2399,growers
+79,Honduras,1991,0.5612,growers
+80,India,1991,0.6153,growers
+81,Jamaica,1991,2.2742,growers
+82,Madagascar,1991,,growers
+83,Malawi,1991,0.7094,growers
+84,Mexico,1991,0.8656,growers
+85,Nicaragua,1991,0.4414,growers
+86,Panama,1991,0.4725,growers
+87,Papua New Guinea,1991,0.6453,growers
+88,Peru,1991,,growers
+89,Rwanda,1991,0.5038,growers
+90,Sri Lanka,1991,,growers
+91,Uganda,1991,0.2964,growers
+92,Venezuela,1991,,growers
+93,Zambia,1991,0.7032,growers
+94,Zimbabwe,1991,,growers
+95,Angola,1991,,growers
+96,Brazil,1991,0.4399,growers
+97,Ethiopia,1991,0.6819,growers
+98,Indonesia,1991,,growers
+99,Philippines,1991,,growers
+100,Thailand,1991,,growers
+101,Vietnam,1991,,growers
+102,Angola,1991,0.9112,growers
+103,Benin,1991,0.229,growers
+104,Brazil,1991,0.2749,growers
+105,Burundi,1991,,growers
+106,Cameroon,1991,0.2501,growers
+107,Central African Republic,1991,0.3664,growers
+108,"Congo, Rep.",1991,0.1855,growers
+109,Cote d'Ivoire,1991,0.3227,growers
+110,Congo,1991,,growers
+111,Ecuador,1991,0.1784,growers
+112,Gabon,1991,0.4358,growers
+113,Ghana,1991,,growers
+114,Guinea,1991,0.3025,growers
+115,India,1991,0.4065,growers
+116,Indonesia,1991,0.2992,growers
+117,Liberia,1991,,growers
+118,Madagascar,1991,0.2276,growers
+119,Nigeria,1991,0.5903,growers
+120,Papua New Guinea,1991,0.2948,growers
+121,Philippines,1991,0.3461,growers
+122,Sierra Leone,1991,,growers
+123,Sri Lanka,1991,0.2529,growers
+124,Tanzania,1991,0.1711,growers
+125,Thailand,1991,0.1837,growers
+126,Togo,1991,0.2864,growers
+127,Trinidad and Tobago,1991,0.6259,growers
+128,Uganda,1991,0.1184,growers
+129,Vietnam,1991,0.3073,growers
+130,Colombia,1992,0.5457,growers
+131,Kenya,1992,0.2895,growers
+132,Tanzania,1992,0.4916,growers
+133,Bolivia,1992,0.4353,growers
+134,Burundi,1992,0.5923,growers
+135,Cameroon,1992,0.2876,growers
+136,Costa Rica,1992,0.4991,growers
+137,Cuba,1992,1.8,growers
+138,Congo,1992,,growers
+139,Dominican Republic,1992,0.4656,growers
+140,Ecuador,1992,0.2908,growers
+141,El Salvador,1992,0.3091,growers
+142,Guatemala,1992,0.4023,growers
+143,Haiti,1992,0.0875,growers
+144,Honduras,1992,0.4014,growers
+145,India,1992,0.5396,growers
+146,Jamaica,1992,1.8251,growers
+147,Madagascar,1992,,growers
+148,Malawi,1992,0.4868,growers
+149,Mexico,1992,0.5825,growers
+150,Nicaragua,1992,0.4414,growers
+151,Panama,1992,0.4437,growers
+152,Papua New Guinea,1992,0.5796,growers
+153,Peru,1992,0.3197,growers
+154,Rwanda,1992,0.4891,growers
+155,Sri Lanka,1992,,growers
+156,Uganda,1992,0.2,growers
+157,Venezuela,1992,,growers
+158,Zambia,1992,0.3496,growers
+159,Zimbabwe,1992,,growers
+160,Angola,1992,,growers
+161,Brazil,1992,0.452,growers
+162,Ethiopia,1992,0.6121,growers
+163,Indonesia,1992,,growers
+164,Philippines,1992,0.5574,growers
+165,Thailand,1992,,growers
+166,Vietnam,1992,,growers
+167,Angola,1992,0.4492,growers
+168,Benin,1992,0.2401,growers
+169,Brazil,1992,0.2759,growers
+170,Burundi,1992,0.4716,growers
+171,Cameroon,1992,0.2425,growers
+172,Central African Republic,1992,0.3393,growers
+173,"Congo, Rep.",1992,0.1975,growers
+174,Cote d'Ivoire,1992,0.3176,growers
+175,Congo,1992,,growers
+176,Ecuador,1992,0.2331,growers
+177,Gabon,1992,0.5152,growers
+178,Ghana,1992,,growers
+179,Guinea,1992,0.2375,growers
+180,India,1992,0.3977,growers
+181,Indonesia,1992,0.2492,growers
+182,Liberia,1992,,growers
+183,Madagascar,1992,0.2262,growers
+184,Nigeria,1992,0.395,growers
+185,Papua New Guinea,1992,0.391,growers
+186,Philippines,1992,0.4248,growers
+187,Sierra Leone,1992,,growers
+188,Sri Lanka,1992,0.3185,growers
+189,Tanzania,1992,0.1484,growers
+190,Thailand,1992,0.203,growers
+191,Togo,1992,0.2983,growers
+192,Trinidad and Tobago,1992,0.6929,growers
+193,Uganda,1992,0.0895,growers
+194,Vietnam,1992,0.3071,growers
+195,Colombia,1993,0.5012,growers
+196,Kenya,1993,0.4764,growers
+197,Tanzania,1993,0.3828,growers
+198,Bolivia,1993,0.2733,growers
+199,Burundi,1993,0.5827,growers
+200,Cameroon,1993,0.2325,growers
+201,Costa Rica,1993,0.5427,growers
+202,Cuba,1993,1.8857,growers
+203,Congo,1993,,growers
+204,Dominican Republic,1993,0.5312,growers
+205,Ecuador,1993,0.2766,growers
+206,El Salvador,1993,0.3535,growers
+207,Guatemala,1993,0.4143,growers
+208,Haiti,1993,0.1449,growers
+209,Honduras,1993,0.3754,growers
+210,India,1993,0.5792,growers
+211,Jamaica,1993,2.5554,growers
+212,Madagascar,1993,,growers
+213,Malawi,1993,0.5734,growers
+214,Mexico,1993,0.7931,growers
+215,Nicaragua,1993,,growers
+216,Panama,1993,0.5177,growers
+217,Papua New Guinea,1993,0.8492,growers
+218,Peru,1993,0.3244,growers
+219,Rwanda,1993,0.4521,growers
+220,Sri Lanka,1993,,growers
+221,Uganda,1993,0.2502,growers
+222,Venezuela,1993,,growers
+223,Zambia,1993,0.5449,growers
+224,Zimbabwe,1993,,growers
+225,Angola,1993,,growers
+226,Brazil,1993,0.5288,growers
+227,Ethiopia,1993,0.6172,growers
+228,Indonesia,1993,1.1553,growers
+229,Philippines,1993,0.542,growers
+230,Thailand,1993,,growers
+231,Vietnam,1993,,growers
+232,Angola,1993,0.1187,growers
+233,Benin,1993,,growers
+234,Brazil,1993,0.3554,growers
+235,Burundi,1993,0.418,growers
+236,Cameroon,1993,0.174,growers
+237,Central African Republic,1993,0.2389,growers
+238,"Congo, Rep.",1993,0.1844,growers
+239,Cote d'Ivoire,1993,0.277,growers
+240,Congo,1993,,growers
+241,Ecuador,1993,0.1952,growers
+242,Gabon,1993,0.4811,growers
+243,Ghana,1993,,growers
+244,Guinea,1993,0.2747,growers
+245,India,1993,0.4421,growers
+246,Indonesia,1993,0.2849,growers
+247,Liberia,1993,,growers
+248,Madagascar,1993,0.3627,growers
+249,Nigeria,1993,0.3608,growers
+250,Papua New Guinea,1993,0.548,growers
+251,Philippines,1993,0.4645,growers
+252,Sierra Leone,1993,,growers
+253,Sri Lanka,1993,0.2889,growers
+254,Tanzania,1993,0.1188,growers
+255,Thailand,1993,0.1829,growers
+256,Togo,1993,0.2264,growers
+257,Trinidad and Tobago,1993,0.722,growers
+258,Uganda,1993,0.1177,growers
+259,Vietnam,1993,0.3453,growers
+260,Colombia,1994,0.8599,growers
+261,Kenya,1994,1.5261,growers
+262,Tanzania,1994,0.6216,growers
+263,Bolivia,1994,0.7992,growers
+264,Burundi,1994,0.6068,growers
+265,Cameroon,1994,0.8832,growers
+266,Costa Rica,1994,0.8136,growers
+267,Cuba,1994,2.0353,growers
+268,Congo,1994,,growers
+269,Dominican Republic,1994,1.1226,growers
+270,Ecuador,1994,0.7642,growers
+271,El Salvador,1994,0.9926,growers
+272,Guatemala,1994,0.7532,growers
+273,Haiti,1994,0.2587,growers
+274,Honduras,1994,0.8157,growers
+275,India,1994,0.7841,growers
+276,Jamaica,1994,2.906,growers
+277,Madagascar,1994,,growers
+278,Malawi,1994,0.9241,growers
+279,Mexico,1994,1.5791,growers
+280,Nicaragua,1994,,growers
+281,Panama,1994,0.8012,growers
+282,Papua New Guinea,1994,1.4908,growers
+283,Peru,1994,0.8814,growers
+284,Rwanda,1994,0.4942,growers
+285,Sri Lanka,1994,0.7199,growers
+286,Uganda,1994,0.755,growers
+287,Venezuela,1994,,growers
+288,Zambia,1994,0.8827,growers
+289,Zimbabwe,1994,,growers
+290,Angola,1994,,growers
+291,Brazil,1994,1.1457,growers
+292,Ethiopia,1994,1.0955,growers
+293,Indonesia,1994,1.7351,growers
+294,Philippines,1994,0.9962,growers
+295,Thailand,1994,,growers
+296,Vietnam,1994,,growers
+297,Angola,1994,,growers
+298,Benin,1994,,growers
+299,Brazil,1994,0.8543,growers
+300,Burundi,1994,0.4145,growers
+301,Cameroon,1994,0.2985,growers
+302,Central African Republic,1994,0.3274,growers
+303,"Congo, Rep.",1994,0.0877,growers
+304,Cote d'Ivoire,1994,0.2978,growers
+305,Congo,1994,,growers
+306,Ecuador,1994,0.6329,growers
+307,Gabon,1994,0.2776,growers
+308,Ghana,1994,,growers
+309,Guinea,1994,0.6133,growers
+310,India,1994,0.5646,growers
+311,Indonesia,1994,0.9138,growers
+312,Liberia,1994,,growers
+313,Madagascar,1994,0.4399,growers
+314,Nigeria,1994,0.5155,growers
+315,Papua New Guinea,1994,0.9564,growers
+316,Philippines,1994,0.9466,growers
+317,Sierra Leone,1994,,growers
+318,Sri Lanka,1994,0.7199,growers
+319,Tanzania,1994,0.24,growers
+320,Thailand,1994,0.1879,growers
+321,Togo,1994,0.2599,growers
+322,Trinidad and Tobago,1994,0.6414,growers
+323,Uganda,1994,0.4166,growers
+324,Vietnam,1994,0.8601,growers
+325,Colombia,1995,0.9962,growers
+326,Kenya,1995,1.4017,growers
+327,Tanzania,1995,0.8676,growers
+328,Bolivia,1995,0.7699,growers
+329,Burundi,1995,0.5669,growers
+330,Cameroon,1995,0.8526,growers
+331,Costa Rica,1995,0.8823,growers
+332,Cuba,1995,1.886,growers
+333,Congo,1995,0.5112,growers
+334,Dominican Republic,1995,1.0926,growers
+335,Ecuador,1995,1.733,growers
+336,El Salvador,1995,1.0051,growers
+337,Guatemala,1995,0.9934,growers
+338,Haiti,1995,0.363,growers
+339,Honduras,1995,1.0255,growers
+340,India,1995,0.8472,growers
+341,Jamaica,1995,2.8424,growers
+342,Madagascar,1995,0.8735,growers
+343,Malawi,1995,1.253,growers
+344,Mexico,1995,1.6279,growers
+345,Nicaragua,1995,,growers
+346,Panama,1995,0.9738,growers
+347,Papua New Guinea,1995,0.8398,growers
+348,Peru,1995,0.9584,growers
+349,Rwanda,1995,0.5493,growers
+350,Sri Lanka,1995,0.9899,growers
+351,Uganda,1995,0.6826,growers
+352,Venezuela,1995,,growers
+353,Zambia,1995,0.6926,growers
+354,Zimbabwe,1995,,growers
+355,Angola,1995,,growers
+356,Brazil,1995,1.1552,growers
+357,Ethiopia,1995,1.1502,growers
+358,Indonesia,1995,,growers
+359,Philippines,1995,1.063,growers
+360,Thailand,1995,,growers
+361,Vietnam,1995,,growers
+362,Angola,1995,,growers
+363,Benin,1995,,growers
+364,Brazil,1995,0.975,growers
+365,Burundi,1995,0.4234,growers
+366,Cameroon,1995,0.5208,growers
+367,Central African Republic,1995,0.5719,growers
+368,"Congo, Rep.",1995,0.2728,growers
+369,Cote d'Ivoire,1995,0.594,growers
+370,Congo,1995,0.2835,growers
+371,Ecuador,1995,1.4362,growers
+372,Gabon,1995,0.4092,growers
+373,Ghana,1995,,growers
+374,Guinea,1995,0.9226,growers
+375,India,1995,0.6653,growers
+376,Indonesia,1995,0.9567,growers
+377,Liberia,1995,,growers
+378,Madagascar,1995,0.5873,growers
+379,Nigeria,1995,,growers
+380,Papua New Guinea,1995,0.6631,growers
+381,Philippines,1995,1.0431,growers
+382,Sierra Leone,1995,,growers
+383,Sri Lanka,1995,0.9324,growers
+384,Tanzania,1995,0.4461,growers
+385,Thailand,1995,0.3684,growers
+386,Togo,1995,0.6141,growers
+387,Trinidad and Tobago,1995,0.6389,growers
+388,Uganda,1995,0.5979,growers
+389,Vietnam,1995,0.9518,growers
+390,Colombia,1996,0.9356,growers
+391,Kenya,1996,1.1004,growers
+392,Tanzania,1996,0.6253,growers
+393,Bolivia,1996,0.5718,growers
+394,Burundi,1996,0.5197,growers
+395,Cameroon,1996,0.8095,growers
+396,Costa Rica,1996,0.9278,growers
+397,Cuba,1996,1.8857,growers
+398,Congo,1996,0.6804,growers
+399,Dominican Republic,1996,0.8767,growers
+400,Ecuador,1996,1.4113,growers
+401,El Salvador,1996,0.7502,growers
+402,Guatemala,1996,0.8377,growers
+403,Haiti,1996,0.2814,growers
+404,Honduras,1996,0.6766,growers
+405,India,1996,0.7832,growers
+406,Jamaica,1996,3.3211,growers
+407,Madagascar,1996,0.9472,growers
+408,Malawi,1996,0.9566,growers
+409,Mexico,1996,1.2344,growers
+410,Nicaragua,1996,,growers
+411,Panama,1996,1.0091,growers
+412,Papua New Guinea,1996,0.9502,growers
+413,Peru,1996,0.777,growers
+414,Rwanda,1996,0.5544,growers
+415,Sri Lanka,1996,,growers
+416,Uganda,1996,0.53,growers
+417,Venezuela,1996,,growers
+418,Zambia,1996,0.8147,growers
+419,Zimbabwe,1996,,growers
+420,Angola,1996,,growers
+421,Brazil,1996,0.9635,growers
+422,Ethiopia,1996,0.6774,growers
+423,Indonesia,1996,,growers
+424,Philippines,1996,0.7631,growers
+425,Thailand,1996,,growers
+426,Vietnam,1996,,growers
+427,Angola,1996,,growers
+428,Benin,1996,,growers
+429,Brazil,1996,0.6978,growers
+430,Burundi,1996,0.4045,growers
+431,Cameroon,1996,0.5102,growers
+432,Central African Republic,1996,0.4507,growers
+433,"Congo, Rep.",1996,0.1419,growers
+434,Cote d'Ivoire,1996,0.577,growers
+435,Congo,1996,0.3289,growers
+436,Ecuador,1996,0.9751,growers
+437,Gabon,1996,0.3991,growers
+438,Ghana,1996,,growers
+439,Guinea,1996,,growers
+440,India,1996,0.5667,growers
+441,Indonesia,1996,0.5835,growers
+442,Liberia,1996,,growers
+443,Madagascar,1996,0.6106,growers
+444,Nigeria,1996,,growers
+445,Papua New Guinea,1996,0.6375,growers
+446,Philippines,1996,0.6891,growers
+447,Sierra Leone,1996,,growers
+448,Sri Lanka,1996,,growers
+449,Tanzania,1996,0.322,growers
+450,Thailand,1996,0.4335,growers
+451,Togo,1996,0.6258,growers
+452,Trinidad and Tobago,1996,0.6325,growers
+453,Uganda,1996,0.3744,growers
+454,Vietnam,1996,0.5742,growers
+455,Colombia,1997,1.3317,growers
+456,Kenya,1997,1.84,growers
+457,Tanzania,1997,1.1852,growers
+458,Bolivia,1997,1.0007,growers
+459,Burundi,1997,0.5279,growers
+460,Cameroon,1997,0.4364,growers
+461,Costa Rica,1997,0.9826,growers
+462,Cuba,1997,1.8857,growers
+463,Congo,1997,0.8505,growers
+464,Dominican Republic,1997,1.6641,growers
+465,Ecuador,1997,1.6792,growers
+466,El Salvador,1997,1.2514,growers
+467,Guatemala,1997,0.9725,growers
+468,Haiti,1997,0.2937,growers
+469,Honduras,1997,1.1688,growers
+470,India,1997,1.3018,growers
+471,Jamaica,1997,2.8678,growers
+472,Madagascar,1997,0.5874,growers
+473,Malawi,1997,1.0875,growers
+474,Mexico,1997,1.3612,growers
+475,Nicaragua,1997,,growers
+476,Panama,1997,1.2655,growers
+477,Papua New Guinea,1997,1.5374,growers
+478,Peru,1997,1.0528,growers
+479,Rwanda,1997,0.5642,growers
+480,Sri Lanka,1997,,growers
+481,Uganda,1997,0.8031,growers
+482,Venezuela,1997,,growers
+483,Zambia,1997,1.2189,growers
+484,Zimbabwe,1997,,growers
+485,Angola,1997,,growers
+486,Brazil,1997,1.4541,growers
+487,Ethiopia,1997,0.9106,growers
+488,Indonesia,1997,1.1226,growers
+489,Philippines,1997,0.7974,growers
+490,Thailand,1997,,growers
+491,Vietnam,1997,,growers
+492,Angola,1997,,growers
+493,Benin,1997,,growers
+494,Brazil,1997,0.7786,growers
+495,Burundi,1997,0.4019,growers
+496,Cameroon,1997,0.389,growers
+497,Central African Republic,1997,0.3836,growers
+498,"Congo, Rep.",1997,,growers
+499,Cote d'Ivoire,1997,0.3929,growers
+500,Congo,1997,0.4536,growers
+501,Ecuador,1997,0.6119,growers
+502,Gabon,1997,0.379,growers
+503,Ghana,1997,,growers
+504,Guinea,1997,,growers
+505,India,1997,0.763,growers
+506,Indonesia,1997,0.5843,growers
+507,Liberia,1997,,growers
+508,Madagascar,1997,0.4948,growers
+509,Nigeria,1997,,growers
+510,Papua New Guinea,1997,0.7543,growers
+511,Philippines,1997,0.7291,growers
+512,Sierra Leone,1997,,growers
+513,Sri Lanka,1997,,growers
+514,Tanzania,1997,0.9248,growers
+515,Thailand,1997,0.2185,growers
+516,Togo,1997,0.4489,growers
+517,Trinidad and Tobago,1997,0.6063,growers
+518,Uganda,1997,0.4169,growers
+519,Vietnam,1997,0.5614,growers
+520,Colombia,1998,1.0208,growers
+521,Kenya,1998,1.799,growers
+522,Tanzania,1998,0.907,growers
+523,Bolivia,1998,1.3109,growers
+524,Burundi,1998,0.5222,growers
+525,Cameroon,1998,0.6683,growers
+526,Costa Rica,1998,0.9266,growers
+527,Cuba,1998,1.8857,growers
+528,Congo,1998,0.6314,growers
+529,Dominican Republic,1998,0.9525,growers
+530,Ecuador,1998,1.106,growers
+531,El Salvador,1998,0.8505,growers
+532,Guatemala,1998,1.0245,growers
+533,Haiti,1998,0.3095,growers
+534,Honduras,1998,0.9326,growers
+535,India,1998,0.9947,growers
+536,Jamaica,1998,2.1545,growers
+537,Madagascar,1998,0.5035,growers
+538,Malawi,1998,1.0152,growers
+539,Mexico,1998,1.0169,growers
+540,Nicaragua,1998,,growers
+541,Panama,1998,1.1176,growers
+542,Papua New Guinea,1998,1.0485,growers
+543,Peru,1998,0.7543,growers
+544,Rwanda,1998,0.5565,growers
+545,Sri Lanka,1998,,growers
+546,Uganda,1998,0.7875,growers
+547,Venezuela,1998,,growers
+548,Zambia,1998,1.3083,growers
+549,Zimbabwe,1998,,growers
+550,Angola,1998,,growers
+551,Brazil,1998,1.0525,growers
+552,Ethiopia,1998,0.9186,growers
+553,Indonesia,1998,0.9941,growers
+554,Philippines,1998,0.8187,growers
+555,Thailand,1998,,growers
+556,Vietnam,1998,,growers
+557,Angola,1998,,growers
+558,Benin,1998,,growers
+559,Brazil,1998,0.7775,growers
+560,Burundi,1998,0.3536,growers
+561,Cameroon,1998,0.3646,growers
+562,Central African Republic,1998,0.3786,growers
+563,"Congo, Rep.",1998,,growers
+564,Cote d'Ivoire,1998,0.4014,growers
+565,Congo,1998,0.4428,growers
+566,Ecuador,1998,0.6663,growers
+567,Gabon,1998,0.5026,growers
+568,Ghana,1998,,growers
+569,Guinea,1998,,growers
+570,India,1998,0.7562,growers
+571,Indonesia,1998,0.5937,growers
+572,Liberia,1998,,growers
+573,Madagascar,1998,0.4825,growers
+574,Nigeria,1998,,growers
+575,Papua New Guinea,1998,0.5915,growers
+576,Philippines,1998,0.7666,growers
+577,Sierra Leone,1998,,growers
+578,Sri Lanka,1998,,growers
+579,Tanzania,1998,0.2819,growers
+580,Thailand,1998,0.2733,growers
+581,Togo,1998,0.4993,growers
+582,Trinidad and Tobago,1998,0.6029,growers
+583,Uganda,1998,0.4002,growers
+584,Vietnam,1998,0.6587,growers
+585,Colombia,1999,0.8638,growers
+586,Kenya,1999,1.0519,growers
+587,Tanzania,1999,0.6588,growers
+588,Bolivia,1999,0.9871,growers
+589,Burundi,1999,0.4657,growers
+590,Cameroon,1999,0.8841,growers
+591,Costa Rica,1999,0.7955,growers
+592,Cuba,1999,1.8857,growers
+593,Congo,1999,,growers
+594,Dominican Republic,1999,0.7418,growers
+595,Ecuador,1999,0.7805,growers
+596,El Salvador,1999,0.5692,growers
+597,Guatemala,1999,0.7924,growers
+598,Haiti,1999,0.229,growers
+599,Honduras,1999,0.6148,growers
+600,India,1999,0.6744,growers
+601,Jamaica,1999,1.7727,growers
+602,Madagascar,1999,0.4349,growers
+603,Malawi,1999,0.7764,growers
+604,Mexico,1999,0.809,growers
+605,Nicaragua,1999,,growers
+606,Panama,1999,,growers
+607,Papua New Guinea,1999,0.6082,growers
+608,Peru,1999,0.5973,growers
+609,Rwanda,1999,0.4533,growers
+610,Sri Lanka,1999,,growers
+611,Uganda,1999,0.4656,growers
+612,Venezuela,1999,,growers
+613,Zambia,1999,1.197,growers
+614,Zimbabwe,1999,,growers
+615,Angola,1999,,growers
+616,Brazil,1999,0.7407,growers
+617,Ethiopia,1999,0.6564,growers
+618,Indonesia,1999,,growers
+619,Philippines,1999,0.6489,growers
+620,Thailand,1999,,growers
+621,Vietnam,1999,,growers
+622,Angola,1999,,growers
+623,Benin,1999,,growers
+624,Brazil,1999,0.5693,growers
+625,Burundi,1999,,growers
+626,Cameroon,1999,0.313,growers
+627,Central African Republic,1999,0.2971,growers
+628,"Congo, Rep.",1999,,growers
+629,Cote d'Ivoire,1999,0.3881,growers
+630,Congo,1999,0.8818,growers
+631,Ecuador,1999,0.4748,growers
+632,Gabon,1999,0.5901,growers
+633,Ghana,1999,,growers
+634,Guinea,1999,,growers
+635,India,1999,0.5761,growers
+636,Indonesia,1999,0.4655,growers
+637,Liberia,1999,,growers
+638,Madagascar,1999,0.3805,growers
+639,Nigeria,1999,,growers
+640,Papua New Guinea,1999,0.377,growers
+641,Philippines,1999,0.6014,growers
+642,Sierra Leone,1999,,growers
+643,Sri Lanka,1999,,growers
+644,Tanzania,1999,0.2352,growers
+645,Thailand,1999,0.3131,growers
+646,Togo,1999,0.4322,growers
+647,Trinidad and Tobago,1999,0.7923,growers
+648,Uganda,1999,0.3152,growers
+649,Vietnam,1999,0.507,growers
+650,Colombia,2000,0.7496,growers
+651,Kenya,2000,0.7298,growers
+652,Tanzania,2000,0.5432,growers
+653,Bolivia,2000,0.7805,growers
+654,Burundi,2000,0.3735,growers
+655,Cameroon,2000,0.3322,growers
+656,Costa Rica,2000,0.6928,growers
+657,Cuba,2000,1.8857,growers
+658,Congo,2000,,growers
+659,Dominican Republic,2000,0.6801,growers
+660,Ecuador,2000,0.6597,growers
+661,El Salvador,2000,0.4455,growers
+662,Guatemala,2000,0.7037,growers
+663,Haiti,2000,0.2249,growers
+664,Honduras,2000,0.5429,growers
+665,India,2000,0.6375,growers
+666,Jamaica,2000,2.0844,growers
+667,Madagascar,2000,1.5583,growers
+668,Malawi,2000,0.576,growers
+669,Mexico,2000,0.6408,growers
+670,Nicaragua,2000,,growers
+671,Panama,2000,,growers
+672,Papua New Guinea,2000,0.4928,growers
+673,Peru,2000,0.5386,growers
+674,Rwanda,2000,0.3408,growers
+675,Sri Lanka,2000,,growers
+676,Uganda,2000,0.41,growers
+677,Venezuela,2000,,growers
+678,Zambia,2000,0.9186,growers
+679,Zimbabwe,2000,,growers
+680,Angola,2000,,growers
+681,Brazil,2000,0.6598,growers
+682,Ethiopia,2000,0.5642,growers
+683,Indonesia,2000,0.6841,growers
+684,Philippines,2000,0.3704,growers
+685,Thailand,2000,,growers
+686,Vietnam,2000,,growers
+687,Angola,2000,0.5174,growers
+688,Benin,2000,,growers
+689,Brazil,2000,0.4153,growers
+690,Burundi,2000,,growers
+691,Cameroon,2000,0.3044,growers
+692,Central African Republic,2000,0.1828,growers
+693,"Congo, Rep.",2000,,growers
+694,Cote d'Ivoire,2000,0.2385,growers
+695,Congo,2000,0.4504,growers
+696,Ecuador,2000,0.327,growers
+697,Gabon,2000,0.5111,growers
+698,Ghana,2000,,growers
+699,Guinea,2000,,growers
+700,India,2000,0.3587,growers
+701,Indonesia,2000,0.224,growers
+702,Liberia,2000,,growers
+703,Madagascar,2000,1.09,growers
+704,Nigeria,2000,,growers
+705,Papua New Guinea,2000,0.2189,growers
+706,Philippines,2000,0.342,growers
+707,Sierra Leone,2000,,growers
+708,Sri Lanka,2000,,growers
+709,Tanzania,2000,0.1529,growers
+710,Thailand,2000,0.1235,growers
+711,Togo,2000,0.2292,growers
+712,Trinidad and Tobago,2000,,growers
+713,Uganda,2000,0.1992,growers
+714,Vietnam,2000,0.2655,growers
+715,Colombia,2001,0.5795,growers
+716,Kenya,2001,0.694,growers
+717,Tanzania,2001,0.3486,growers
+718,Bolivia,2001,,growers
+719,Burundi,2001,0.3219,growers
+720,Cameroon,2001,0.1909,growers
+721,Costa Rica,2001,0.4669,growers
+722,Cuba,2001,1.8857,growers
+723,Congo,2001,,growers
+724,Dominican Republic,2001,0.4204,growers
+725,Ecuador,2001,0.2728,growers
+726,El Salvador,2001,0.1763,growers
+727,Guatemala,2001,0.4535,growers
+728,Haiti,2001,,growers
+729,Honduras,2001,0.3432,growers
+730,India,2001,0.4382,growers
+731,Jamaica,2001,1.6959,growers
+732,Madagascar,2001,0.6459,growers
+733,Malawi,2001,0.4642,growers
+734,Mexico,2001,0.5398,growers
+735,Nicaragua,2001,0.2965,growers
+736,Panama,2001,,growers
+737,Papua New Guinea,2001,0.3297,growers
+738,Peru,2001,0.3477,growers
+739,Rwanda,2001,0.2326,growers
+740,Sri Lanka,2001,,growers
+741,Uganda,2001,0.2751,growers
+742,Venezuela,2001,,growers
+743,Zambia,2001,0.6573,growers
+744,Zimbabwe,2001,,growers
+745,Angola,2001,,growers
+746,Brazil,2001,0.3705,growers
+747,Ethiopia,2001,0.4378,growers
+748,Indonesia,2001,0.5361,growers
+749,Philippines,2001,0.4936,growers
+750,Thailand,2001,,growers
+751,Vietnam,2001,,growers
+752,Angola,2001,0.1861,growers
+753,Benin,2001,,growers
+754,Brazil,2001,0.1935,growers
+755,Burundi,2001,,growers
+756,Cameroon,2001,0.2113,growers
+757,Central African Republic,2001,0.1322,growers
+758,"Congo, Rep.",2001,,growers
+759,Cote d'Ivoire,2001,,growers
+760,Congo,2001,0.0795,growers
+761,Ecuador,2001,0.1126,growers
+762,Gabon,2001,0.4793,growers
+763,Ghana,2001,,growers
+764,Guinea,2001,,growers
+765,India,2001,0.2344,growers
+766,Indonesia,2001,0.1357,growers
+767,Liberia,2001,,growers
+768,Madagascar,2001,0.5166,growers
+769,Nigeria,2001,,growers
+770,Papua New Guinea,2001,0.12,growers
+771,Philippines,2001,0.2363,growers
+772,Sierra Leone,2001,,growers
+773,Sri Lanka,2001,,growers
+774,Tanzania,2001,0.0521,growers
+775,Thailand,2001,0.1275,growers
+776,Togo,2001,0.1532,growers
+777,Trinidad and Tobago,2001,,growers
+778,Uganda,2001,0.1057,growers
+779,Vietnam,2001,0.1512,growers
+780,Colombia,2002,0.5257,growers
+781,Kenya,2002,0.6767,growers
+782,Tanzania,2002,0.2593,growers
+783,Bolivia,2002,,growers
+784,Burundi,2002,0.2917,growers
+785,Cameroon,2002,0.2456,growers
+786,Costa Rica,2002,0.4674,growers
+787,Cuba,2002,1.8857,growers
+788,Congo,2002,,growers
+789,Dominican Republic,2002,0.5083,growers
+790,Ecuador,2002,0.2736,growers
+791,El Salvador,2002,0.2184,growers
+792,Guatemala,2002,0.4961,growers
+793,Haiti,2002,,growers
+794,Honduras,2002,0.3706,growers
+795,India,2002,0.3961,growers
+796,Jamaica,2002,2.376,growers
+797,Madagascar,2002,0.725,growers
+798,Malawi,2002,0.3979,growers
+799,Mexico,2002,0.4508,growers
+800,Nicaragua,2002,0.3015,growers
+801,Panama,2002,,growers
+802,Papua New Guinea,2002,0.3166,growers
+803,Peru,2002,0.2952,growers
+804,Rwanda,2002,0.1788,growers
+805,Sri Lanka,2002,,growers
+806,Uganda,2002,0.2752,growers
+807,Venezuela,2002,,growers
+808,Zambia,2002,0.6001,growers
+809,Zimbabwe,2002,,growers
+810,Angola,2002,,growers
+811,Brazil,2002,0.3091,growers
+812,Ethiopia,2002,0.2688,growers
+813,Indonesia,2002,0.5966,growers
+814,Philippines,2002,0.2174,growers
+815,Thailand,2002,,growers
+816,Vietnam,2002,,growers
+817,Angola,2002,0.1071,growers
+818,Benin,2002,,growers
+819,Brazil,2002,0.1999,growers
+820,Burundi,2002,,growers
+821,Cameroon,2002,0.1605,growers
+822,Central African Republic,2002,0.1194,growers
+823,"Congo, Rep.",2002,,growers
+824,Cote d'Ivoire,2002,0.0896,growers
+825,Congo,2002,0.0296,growers
+826,Ecuador,2002,0.12,growers
+827,Gabon,2002,0.4458,growers
+828,Ghana,2002,,growers
+829,Guinea,2002,,growers
+830,India,2002,0.2208,growers
+831,Indonesia,2002,0.1465,growers
+832,Liberia,2002,,growers
+833,Madagascar,2002,0.557,growers
+834,Nigeria,2002,,growers
+835,Papua New Guinea,2002,0.1331,growers
+836,Philippines,2002,0.2145,growers
+837,Sierra Leone,2002,,growers
+838,Sri Lanka,2002,,growers
+839,Tanzania,2002,0.043,growers
+840,Thailand,2002,0.0644,growers
+841,Togo,2002,0.1827,growers
+842,Trinidad and Tobago,2002,,growers
+843,Uganda,2002,0.1278,growers
+844,Vietnam,2002,0.1814,growers
+845,Colombia,2003,0.4834,growers
+846,Kenya,2003,0.4107,growers
+847,Tanzania,2003,0.2478,growers
+848,Bolivia,2003,,growers
+849,Burundi,2003,0.2488,growers
+850,Cameroon,2003,0.3527,growers
+851,Costa Rica,2003,0.5299,growers
+852,Cuba,2003,1.6893,growers
+853,Congo,2003,,growers
+854,Dominican Republic,2003,0.4957,growers
+855,Ecuador,2003,0.3106,growers
+856,El Salvador,2003,0.2569,growers
+857,Guatemala,2003,0.4842,growers
+858,Haiti,2003,,growers
+859,Honduras,2003,0.4171,growers
+860,India,2003,0.4345,growers
+861,Jamaica,2003,1.8562,growers
+862,Madagascar,2003,0.8658,growers
+863,Malawi,2003,0.3962,growers
+864,Mexico,2003,0.6402,growers
+865,Nicaragua,2003,0.3442,growers
+866,Panama,2003,,growers
+867,Papua New Guinea,2003,0.3699,growers
+868,Peru,2003,0.3293,growers
+869,Rwanda,2003,0.2489,growers
+870,Sri Lanka,2003,,growers
+871,Uganda,2003,0.2864,growers
+872,Venezuela,2003,,growers
+873,Zambia,2003,0.5297,growers
+874,Zimbabwe,2003,,growers
+875,Angola,2003,,growers
+876,Brazil,2003,0.4282,growers
+877,Ethiopia,2003,0.3457,growers
+878,Indonesia,2003,0.4205,growers
+879,Philippines,2003,0.6063,growers
+880,Thailand,2003,,growers
+881,Vietnam,2003,,growers
+882,Angola,2003,0.0661,growers
+883,Benin,2003,,growers
+884,Brazil,2003,0.3161,growers
+885,Burundi,2003,,growers
+886,Cameroon,2003,0.2226,growers
+887,Central African Republic,2003,0.1806,growers
+888,"Congo, Rep.",2003,,growers
+889,Cote d'Ivoire,2003,0.1771,growers
+890,Congo,2003,0.0561,growers
+891,Ecuador,2003,0.2186,growers
+892,Gabon,2003,,growers
+893,Ghana,2003,,growers
+894,Guinea,2003,,growers
+895,India,2003,0.286,growers
+896,Indonesia,2003,0.1661,growers
+897,Liberia,2003,,growers
+898,Madagascar,2003,0.5592,growers
+899,Nigeria,2003,,growers
+900,Papua New Guinea,2003,0.1731,growers
+901,Philippines,2003,0.3265,growers
+902,Sierra Leone,2003,,growers
+903,Sri Lanka,2003,,growers
+904,Tanzania,2003,0.0672,growers
+905,Thailand,2003,0.1325,growers
+906,Togo,2003,0.2277,growers
+907,Trinidad and Tobago,2003,,growers
+908,Uganda,2003,0.2081,growers
+909,Vietnam,2003,0.2794,growers
+910,Colombia,2004,0.6083,growers
+911,Kenya,2004,0.7101,growers
+912,Tanzania,2004,0.2637,growers
+913,Bolivia,2004,,growers
+914,Burundi,2004,0.2736,growers
+915,Cameroon,2004,,growers
+916,Costa Rica,2004,0.6487,growers
+917,Cuba,2004,0.7018,growers
+918,Congo,2004,,growers
+919,Dominican Republic,2004,0.757,growers
+920,Ecuador,2004,0.5119,growers
+921,El Salvador,2004,0.393,growers
+922,Guatemala,2004,0.6691,growers
+923,Haiti,2004,,growers
+924,Honduras,2004,0.5022,growers
+925,India,2004,0.5832,growers
+926,Jamaica,2004,1.8542,growers
+927,Madagascar,2004,0.4682,growers
+928,Malawi,2004,0.5168,growers
+929,Mexico,2004,0.9078,growers
+930,Nicaragua,2004,0.4087,growers
+931,Panama,2004,,growers
+932,Papua New Guinea,2004,0.411,growers
+933,Peru,2004,0.4243,growers
+934,Rwanda,2004,0.2946,growers
+935,Sri Lanka,2004,,growers
+936,Uganda,2004,0.3599,growers
+937,Venezuela,2004,,growers
+938,Zambia,2004,0.6444,growers
+939,Zimbabwe,2004,,growers
+940,Angola,2004,,growers
+941,Brazil,2004,0.5633,growers
+942,Ethiopia,2004,0.4885,growers
+943,Indonesia,2004,0.8062,growers
+944,Philippines,2004,0.6623,growers
+945,Thailand,2004,,growers
+946,Vietnam,2004,,growers
+947,Angola,2004,0.0992,growers
+948,Benin,2004,,growers
+949,Brazil,2004,0.3485,growers
+950,Burundi,2004,,growers
+951,Cameroon,2004,,growers
+952,Central African Republic,2004,0.2017,growers
+953,"Congo, Rep.",2004,,growers
+954,Cote d'Ivoire,2004,0.1477,growers
+955,Congo,2004,,growers
+956,Ecuador,2004,0.2975,growers
+957,Gabon,2004,,growers
+958,Ghana,2004,,growers
+959,Guinea,2004,,growers
+960,India,2004,0.308,growers
+961,Indonesia,2004,0.2417,growers
+962,Liberia,2004,,growers
+963,Madagascar,2004,0.1974,growers
+964,Nigeria,2004,,growers
+965,Papua New Guinea,2004,0.2216,growers
+966,Philippines,2004,0.3189,growers
+967,Sierra Leone,2004,,growers
+968,Sri Lanka,2004,,growers
+969,Tanzania,2004,0.0755,growers
+970,Thailand,2004,0.1283,growers
+971,Togo,2004,0.2191,growers
+972,Trinidad and Tobago,2004,,growers
+973,Uganda,2004,0.2626,growers
+974,Vietnam,2004,0.26,growers
+975,Colombia,2005,0.8922,growers
+976,Kenya,2005,,growers
+977,Tanzania,2005,0.4369,growers
+978,Bolivia,2005,,growers
+979,Burundi,2005,0.4293,growers
+980,Cameroon,2005,,growers
+981,Costa Rica,2005,0.8343,growers
+982,Cuba,2005,0.7071,growers
+983,Congo,2005,,growers
+984,Dominican Republic,2005,0.8792,growers
+985,Ecuador,2005,0.9162,growers
+986,El Salvador,2005,0.671,growers
+987,Guatemala,2005,0.9246,growers
+988,Haiti,2005,,growers
+989,Honduras,2005,0.7869,growers
+990,India,2005,0.9653,growers
+991,Jamaica,2005,2.4469,growers
+992,Madagascar,2005,0.508,growers
+993,Malawi,2005,0.8371,growers
+994,Mexico,2005,1.3903,growers
+995,Nicaragua,2005,0.5288,growers
+996,Panama,2005,,growers
+997,Papua New Guinea,2005,0.6226,growers
+998,Peru,2005,0.7194,growers
+999,Rwanda,2005,0.4625,growers
+1000,Sri Lanka,2005,,growers
+1001,Uganda,2005,0.5786,growers
+1002,Venezuela,2005,,growers
+1003,Zambia,2005,0.8718,growers
+1004,Zimbabwe,2005,,growers
+1005,Angola,2005,,growers
+1006,Brazil,2005,0.8709,growers
+1007,Ethiopia,2005,0.6423,growers
+1008,Indonesia,2005,1.1704,growers
+1009,Philippines,2005,0.8,growers
+1010,Thailand,2005,,growers
+1011,Vietnam,2005,,growers
+1012,Angola,2005,0.1042,growers
+1013,Benin,2005,,growers
+1014,Brazil,2005,0.4647,growers
+1015,Burundi,2005,,growers
+1016,Cameroon,2005,,growers
+1017,Central African Republic,2005,,growers
+1018,"Congo, Rep.",2005,,growers
+1019,Cote d'Ivoire,2005,0.1123,growers
+1020,Congo,2005,,growers
+1021,Ecuador,2005,0.5096,growers
+1022,Gabon,2005,,growers
+1023,Ghana,2005,,growers
+1024,Guinea,2005,,growers
+1025,India,2005,0.5242,growers
+1026,Indonesia,2005,0.3421,growers
+1027,Liberia,2005,,growers
+1028,Madagascar,2005,0.3024,growers
+1029,Nigeria,2005,,growers
+1030,Papua New Guinea,2005,0.243,growers
+1031,Philippines,2005,0.4169,growers
+1032,Sierra Leone,2005,,growers
+1033,Sri Lanka,2005,,growers
+1034,Tanzania,2005,0.1427,growers
+1035,Thailand,2005,0.1832,growers
+1036,Togo,2005,0.2792,growers
+1037,Trinidad and Tobago,2005,,growers
+1038,Uganda,2005,0.4082,growers
+1039,Vietnam,2005,0.359,growers
+1040,Colombia,2006,0.8981,growers
+1041,Kenya,2006,,growers
+1042,Tanzania,2006,0.4277,growers
+1043,Bolivia,2006,,growers
+1044,Burundi,2006,0.6345,growers
+1045,Cameroon,2006,,growers
+1046,Costa Rica,2006,0.8922,growers
+1047,Cuba,2006,0.7071,growers
+1048,Congo,2006,,growers
+1049,Dominican Republic,2006,0.8629,growers
+1050,Ecuador,2006,0.9245,growers
+1051,El Salvador,2006,0.6749,growers
+1052,Guatemala,2006,0.9119,growers
+1053,Haiti,2006,,growers
+1054,Honduras,2006,0.8082,growers
+1055,India,2006,0.9586,growers
+1056,Jamaica,2006,3.5489,growers
+1057,Madagascar,2006,,growers
+1058,Malawi,2006,0.8458,growers
+1059,Mexico,2006,0.855,growers
+1060,Nicaragua,2006,0.5866,growers
+1061,Panama,2006,,growers
+1062,Papua New Guinea,2006,0.7128,growers
+1063,Peru,2006,0.6883,growers
+1064,Rwanda,2006,,growers
+1065,Sri Lanka,2006,,growers
+1066,Uganda,2006,0.5534,growers
+1067,Venezuela,2006,,growers
+1068,Zambia,2006,1.0018,growers
+1069,Zimbabwe,2006,,growers
+1070,Angola,2006,,growers
+1071,Brazil,2006,0.8702,growers
+1072,Ethiopia,2006,0.5832,growers
+1073,Indonesia,2006,1.0752,growers
+1074,Philippines,2006,0.6151,growers
+1075,Thailand,2006,,growers
+1076,Vietnam,2006,,growers
+1077,Angola,2006,0.1298,growers
+1078,Benin,2006,,growers
+1079,Brazil,2006,0.6203,growers
+1080,Burundi,2006,,growers
+1081,Cameroon,2006,,growers
+1082,Central African Republic,2006,,growers
+1083,"Congo, Rep.",2006,,growers
+1084,Cote d'Ivoire,2006,0.2799,growers
+1085,Congo,2006,,growers
+1086,Ecuador,2006,0.5373,growers
+1087,Gabon,2006,,growers
+1088,Ghana,2006,,growers
+1089,Guinea,2006,,growers
+1090,India,2006,0.6135,growers
+1091,Indonesia,2006,0.5247,growers
+1092,Liberia,2006,,growers
+1093,Madagascar,2006,0.4171,growers
+1094,Nigeria,2006,,growers
+1095,Papua New Guinea,2006,0.3289,growers
+1096,Philippines,2006,0.5532,growers
+1097,Sierra Leone,2006,,growers
+1098,Sri Lanka,2006,,growers
+1099,Tanzania,2006,0.2145,growers
+1100,Thailand,2006,0.4655,growers
+1101,Togo,2006,0.4472,growers
+1102,Trinidad and Tobago,2006,,growers
+1103,Uganda,2006,0.4702,growers
+1104,Vietnam,2006,0.545,growers
+1105,Colombia,2007,1.0005,growers
+1106,Kenya,2007,,growers
+1107,Tanzania,2007,0.5978,growers
+1108,Bolivia,2007,,growers
+1109,Burundi,2007,0.8035,growers
+1110,Cameroon,2007,0.8019,growers
+1111,Costa Rica,2007,0.9864,growers
+1112,Cuba,2007,0.4714,growers
+1113,Congo,2007,,growers
+1114,Dominican Republic,2007,0.8713,growers
+1115,Ecuador,2007,1.1052,growers
+1116,El Salvador,2007,0.7524,growers
+1117,Guatemala,2007,0.9831,growers
+1118,Haiti,2007,,growers
+1119,Honduras,2007,0.8163,growers
+1120,India,2007,1.0803,growers
+1121,Jamaica,2007,3.4306,growers
+1122,Madagascar,2007,,growers
+1123,Malawi,2007,0.8036,growers
+1124,Mexico,2007,0.9091,growers
+1125,Nicaragua,2007,0.6436,growers
+1126,Panama,2007,,growers
+1127,Papua New Guinea,2007,0.7669,growers
+1128,Peru,2007,0.8544,growers
+1129,Rwanda,2007,,growers
+1130,Sri Lanka,2007,,growers
+1131,Uganda,2007,0.6501,growers
+1132,Venezuela,2007,,growers
+1133,Zambia,2007,1.0645,growers
+1134,Zimbabwe,2007,,growers
+1135,Angola,2007,,growers
+1136,Brazil,2007,0.983,growers
+1137,Ethiopia,2007,0.6983,growers
+1138,Indonesia,2007,1.1799,growers
+1139,Philippines,2007,0.8137,growers
+1140,Thailand,2007,,growers
+1141,Vietnam,2007,,growers
+1142,Angola,2007,0.3605,growers
+1143,Benin,2007,,growers
+1144,Brazil,2007,0.7894,growers
+1145,Burundi,2007,,growers
+1146,Cameroon,2007,0.5513,growers
+1147,Central African Republic,2007,0.4534,growers
+1148,"Congo, Rep.",2007,,growers
+1149,Cote d'Ivoire,2007,0.3284,growers
+1150,Congo,2007,,growers
+1151,Ecuador,2007,0.649,growers
+1152,Gabon,2007,,growers
+1153,Ghana,2007,,growers
+1154,Guinea,2007,,growers
+1155,India,2007,0.7938,growers
+1156,Indonesia,2007,0.558,growers
+1157,Liberia,2007,,growers
+1158,Madagascar,2007,0.6957,growers
+1159,Nigeria,2007,,growers
+1160,Papua New Guinea,2007,0.2391,growers
+1161,Philippines,2007,0.7448,growers
+1162,Sierra Leone,2007,,growers
+1163,Sri Lanka,2007,,growers
+1164,Tanzania,2007,0.2138,growers
+1165,Thailand,2007,0.6467,growers
+1166,Togo,2007,0.5672,growers
+1167,Trinidad and Tobago,2007,,growers
+1168,Uganda,2007,0.5588,growers
+1169,Vietnam,2007,0.7114,growers
+1170,Colombia,2008,1.1422,growers
+1171,Kenya,2008,,growers
+1172,Tanzania,2008,0.6338,growers
+1173,Bolivia,2008,,growers
+1174,Burundi,2008,0.8619,growers
+1175,Cameroon,2008,0.7913,growers
+1176,Costa Rica,2008,1.0617,growers
+1177,Cuba,2008,0.7071,growers
+1178,Congo,2008,,growers
+1179,Dominican Republic,2008,1.0145,growers
+1180,Ecuador,2008,1.4504,growers
+1181,El Salvador,2008,0.8605,growers
+1182,Guatemala,2008,1.1103,growers
+1183,Haiti,2008,,growers
+1184,Honduras,2008,0.9056,growers
+1185,India,2008,1.217,growers
+1186,Jamaica,2008,3.4848,growers
+1187,Madagascar,2008,,growers
+1188,Malawi,2008,0.7623,growers
+1189,Mexico,2008,1.0605,growers
+1190,Nicaragua,2008,0.7102,growers
+1191,Panama,2008,,growers
+1192,Papua New Guinea,2008,1.1178,growers
+1193,Peru,2008,0.9239,growers
+1194,Rwanda,2008,,growers
+1195,Sri Lanka,2008,,growers
+1196,Uganda,2008,0.7332,growers
+1197,Venezuela,2008,,growers
+1198,Zambia,2008,1.267,growers
+1199,Zimbabwe,2008,,growers
+1200,Angola,2008,,growers
+1201,Brazil,2008,1.0926,growers
+1202,Ethiopia,2008,0.7171,growers
+1203,Indonesia,2008,,growers
+1204,Philippines,2008,0.9552,growers
+1205,Thailand,2008,,growers
+1206,Vietnam,2008,,growers
+1207,Angola,2008,0.4232,growers
+1208,Benin,2008,,growers
+1209,Brazil,2008,0.9158,growers
+1210,Burundi,2008,,growers
+1211,Cameroon,2008,0.5254,growers
+1212,Central African Republic,2008,0.4569,growers
+1213,"Congo, Rep.",2008,,growers
+1214,Cote d'Ivoire,2008,0.5186,growers
+1215,Congo,2008,,growers
+1216,Ecuador,2008,0.7926,growers
+1217,Gabon,2008,,growers
+1218,Ghana,2008,,growers
+1219,Guinea,2008,,growers
+1220,India,2008,0.9612,growers
+1221,Indonesia,2008,,growers
+1222,Liberia,2008,,growers
+1223,Madagascar,2008,,growers
+1224,Nigeria,2008,,growers
+1225,Papua New Guinea,2008,0.349,growers
+1226,Philippines,2008,0.8833,growers
+1227,Sierra Leone,2008,,growers
+1228,Sri Lanka,2008,,growers
+1229,Tanzania,2008,0.3532,growers
+1230,Thailand,2008,0.8375,growers
+1231,Togo,2008,0.7694,growers
+1232,Trinidad and Tobago,2008,,growers
+1233,Uganda,2008,0.7109,growers
+1234,Vietnam,2008,0.8915,growers
+1235,Colombia,2009,1.3896,growers
+1236,Kenya,2009,,growers
+1237,Tanzania,2009,,growers
+1238,Bolivia,2009,,growers
+1239,Burundi,2009,0.8568,growers
+1240,Cameroon,2009,0.6605,growers
+1241,Costa Rica,2009,1.0688,growers
+1242,Cuba,2009,0.7071,growers
+1243,Congo,2009,,growers
+1244,Dominican Republic,2009,1.0604,growers
+1245,Ecuador,2009,1.4709,growers
+1246,El Salvador,2009,0.7919,growers
+1247,Guatemala,2009,1.0964,growers
+1248,Haiti,2009,,growers
+1249,Honduras,2009,0.8372,growers
+1250,India,2009,1.3689,growers
+1251,Jamaica,2009,2.9597,growers
+1252,Madagascar,2009,,growers
+1253,Malawi,2009,0.9131,growers
+1254,Mexico,2009,,growers
+1255,Nicaragua,2009,0.7102,growers
+1256,Panama,2009,,growers
+1257,Papua New Guinea,2009,0.7275,growers
+1258,Peru,2009,0.9266,growers
+1259,Rwanda,2009,,growers
+1260,Sri Lanka,2009,,growers
+1261,Uganda,2009,0.6054,growers
+1262,Venezuela,2009,,growers
+1263,Zambia,2009,1.1654,growers
+1264,Zimbabwe,2009,,growers
+1265,Angola,2009,,growers
+1266,Brazil,2009,1.008,growers
+1267,Ethiopia,2009,0.7706,growers
+1268,Indonesia,2009,,growers
+1269,Philippines,2009,,growers
+1270,Thailand,2009,,growers
+1271,Vietnam,2009,,growers
+1272,Angola,2009,0.4014,growers
+1273,Benin,2009,,growers
+1274,Brazil,2009,0.7342,growers
+1275,Burundi,2009,,growers
+1276,Cameroon,2009,0.3774,growers
+1277,Central African Republic,2009,0.4359,growers
+1278,"Congo, Rep.",2009,,growers
+1279,Cote d'Ivoire,2009,0.3752,growers
+1280,Congo,2009,,growers
+1281,Ecuador,2009,0.7799,growers
+1282,Gabon,2009,0.9196,growers
+1283,Ghana,2009,,growers
+1284,Guinea,2009,,growers
+1285,India,2009,0.7313,growers
+1286,Indonesia,2009,,growers
+1287,Liberia,2009,,growers
+1288,Madagascar,2009,,growers
+1289,Nigeria,2009,,growers
+1290,Papua New Guinea,2009,0.2757,growers
+1291,Philippines,2009,0.6938,growers
+1292,Sierra Leone,2009,,growers
+1293,Sri Lanka,2009,,growers
+1294,Tanzania,2009,,growers
+1295,Thailand,2009,0.9048,growers
+1296,Togo,2009,0.4471,growers
+1297,Trinidad and Tobago,2009,,growers
+1298,Uganda,2009,0.4903,growers
+1299,Vietnam,2009,0.6552,growers
+1300,Colombia,2010,1.8055,growers
+1301,Kenya,2010,,growers
+1302,Tanzania,2010,,growers
+1303,Bolivia,2010,,growers
+1304,Burundi,2010,0.8569,growers
+1305,Cameroon,2010,,growers
+1306,Costa Rica,2010,1.3986,growers
+1307,Cuba,2010,0.7071,growers
+1308,Congo,2010,,growers
+1309,Dominican Republic,2010,1.3913,growers
+1310,Ecuador,2010,1.6188,growers
+1311,El Salvador,2010,1.0988,growers
+1312,Guatemala,2010,1.4477,growers
+1313,Haiti,2010,,growers
+1314,Honduras,2010,1.2516,growers
+1315,India,2010,1.5108,growers
+1316,Jamaica,2010,2.8682,growers
+1317,Madagascar,2010,,growers
+1318,Malawi,2010,0.9635,growers
+1319,Mexico,2010,,growers
+1320,Nicaragua,2010,0.7854,growers
+1321,Panama,2010,,growers
+1322,Papua New Guinea,2010,0.9489,growers
+1323,Peru,2010,1.1918,growers
+1324,Rwanda,2010,,growers
+1325,Sri Lanka,2010,,growers
+1326,Uganda,2010,0.8723,growers
+1327,Venezuela,2010,,growers
+1328,Zambia,2010,1.2015,growers
+1329,Zimbabwe,2010,,growers
+1330,Angola,2010,,growers
+1331,Brazil,2010,1.34,growers
+1332,Ethiopia,2010,0.8546,growers
+1333,Indonesia,2010,,growers
+1334,Philippines,2010,,growers
+1335,Thailand,2010,,growers
+1336,Vietnam,2010,,growers
+1337,Angola,2010,0.4439,growers
+1338,Benin,2010,,growers
+1339,Brazil,2010,0.7422,growers
+1340,Burundi,2010,,growers
+1341,Cameroon,2010,,growers
+1342,Central African Republic,2010,0.514,growers
+1343,"Congo, Rep.",2010,,growers
+1344,Cote d'Ivoire,2010,0.2249,growers
+1345,Congo,2010,,growers
+1346,Ecuador,2010,0.8055,growers
+1347,Gabon,2010,0.8258,growers
+1348,Ghana,2010,,growers
+1349,Guinea,2010,,growers
+1350,India,2010,0.7796,growers
+1351,Indonesia,2010,,growers
+1352,Liberia,2010,,growers
+1353,Madagascar,2010,,growers
+1354,Nigeria,2010,,growers
+1355,Papua New Guinea,2010,0.2945,growers
+1356,Philippines,2010,0.6587,growers
+1357,Sierra Leone,2010,,growers
+1358,Sri Lanka,2010,,growers
+1359,Tanzania,2010,,growers
+1360,Thailand,2010,0.845,growers
+1361,Togo,2010,0.4236,growers
+1362,Trinidad and Tobago,2010,,growers
+1363,Uganda,2010,0.5561,growers
+1364,Vietnam,2010,0.6718,growers
+1365,Colombia,2011,2.3968,growers
+1366,Kenya,2011,,growers
+1367,Tanzania,2011,,growers
+1368,Bolivia,2011,,growers
+1369,Burundi,2011,,growers
+1370,Cameroon,2011,,growers
+1371,Costa Rica,2011,1.8022,growers
+1372,Cuba,2011,0.7071,growers
+1373,Congo,2011,,growers
+1374,Dominican Republic,2011,1.9107,growers
+1375,Ecuador,2011,2.2721,growers
+1376,El Salvador,2011,1.8674,growers
+1377,Guatemala,2011,2.1241,growers
+1378,Haiti,2011,,growers
+1379,Honduras,2011,2.0002,growers
+1380,India,2011,2.2846,growers
+1381,Jamaica,2011,3.0269,growers
+1382,Madagascar,2011,,growers
+1383,Malawi,2011,,growers
+1384,Mexico,2011,,growers
+1385,Nicaragua,2011,0.9103,growers
+1386,Panama,2011,,growers
+1387,Papua New Guinea,2011,1.4124,growers
+1388,Peru,2011,,growers
+1389,Rwanda,2011,,growers
+1390,Sri Lanka,2011,,growers
+1391,Uganda,2011,1.4703,growers
+1392,Venezuela,2011,,growers
+1393,Zambia,2011,0.8479,growers
+1394,Zimbabwe,2011,,growers
+1395,Angola,2011,,growers
+1396,Brazil,2011,2.2426,growers
+1397,Ethiopia,2011,1.4546,growers
+1398,Indonesia,2011,,growers
+1399,Philippines,2011,,growers
+1400,Thailand,2011,,growers
+1401,Vietnam,2011,,growers
+1402,Angola,2011,0.4829,growers
+1403,Benin,2011,,growers
+1404,Brazil,2011,1.0529,growers
+1405,Burundi,2011,,growers
+1406,Cameroon,2011,,growers
+1407,Central African Republic,2011,0.7272,growers
+1408,"Congo, Rep.",2011,,growers
+1409,Cote d'Ivoire,2011,0.284,growers
+1410,Congo,2011,,growers
+1411,Ecuador,2011,0.9526,growers
+1412,Gabon,2011,0.8892,growers
+1413,Ghana,2011,0.1843,growers
+1414,Guinea,2011,,growers
+1415,India,2011,1.096,growers
+1416,Indonesia,2011,,growers
+1417,Liberia,2011,,growers
+1418,Madagascar,2011,,growers
+1419,Nigeria,2011,,growers
+1420,Papua New Guinea,2011,0.3768,growers
+1421,Philippines,2011,1.0838,growers
+1422,Sierra Leone,2011,0.1883,growers
+1423,Sri Lanka,2011,,growers
+1424,Tanzania,2011,,growers
+1425,Thailand,2011,1.0764,growers
+1426,Togo,2011,0.7414,growers
+1427,Trinidad and Tobago,2011,,growers
+1428,Uganda,2011,0.7354,growers
+1429,Vietnam,2011,0.9857,growers
+1430,Colombia,2012,1.6669,growers
+1431,Kenya,2012,,growers
+1432,Tanzania,2012,,growers
+1433,Bolivia,2012,2.2564,growers
+1434,Burundi,2012,,growers
+1435,Cameroon,2012,,growers
+1436,Costa Rica,2012,1.6073,growers
+1437,Cuba,2012,0.7071,growers
+1438,Congo,2012,,growers
+1439,Dominican Republic,2012,1.4781,growers
+1440,Ecuador,2012,1.839,growers
+1441,El Salvador,2012,1.2012,growers
+1442,Guatemala,2012,1.6598,growers
+1443,Haiti,2012,,growers
+1444,Honduras,2012,1.4115,growers
+1445,India,2012,1.6198,growers
+1446,Jamaica,2012,3.0144,growers
+1447,Madagascar,2012,,growers
+1448,Malawi,2012,,growers
+1449,Mexico,2012,,growers
+1450,Nicaragua,2012,0.6084,growers
+1451,Panama,2012,,growers
+1452,Papua New Guinea,2012,0.9882,growers
+1453,Peru,2012,1.3234,growers
+1454,Rwanda,2012,,growers
+1455,Sri Lanka,2012,,growers
+1456,Uganda,2012,0.9368,growers
+1457,Venezuela,2012,,growers
+1458,Zambia,2012,,growers
+1459,Zimbabwe,2012,,growers
+1460,Angola,2012,0.5702,growers
+1461,Brazil,2012,1.5229,growers
+1462,Ethiopia,2012,1.0279,growers
+1463,Indonesia,2012,,growers
+1464,Philippines,2012,2.6201,growers
+1465,Thailand,2012,,growers
+1466,Vietnam,2012,0.8447,growers
+1467,Angola,2012,0.4751,growers
+1468,Benin,2012,,growers
+1469,Brazil,2012,1.044,growers
+1470,Burundi,2012,,growers
+1471,Cameroon,2012,,growers
+1472,Central African Republic,2012,0.6873,growers
+1473,"Congo, Rep.",2012,,growers
+1474,Cote d'Ivoire,2012,0.4629,growers
+1475,Congo,2012,,growers
+1476,Ecuador,2012,0.9512,growers
+1477,Gabon,2012,0.889,growers
+1478,Ghana,2012,0.1772,growers
+1479,Guinea,2012,,growers
+1480,India,2012,1.0465,growers
+1481,Indonesia,2012,,growers
+1482,Liberia,2012,,growers
+1483,Madagascar,2012,,growers
+1484,Nigeria,2012,,growers
+1485,Papua New Guinea,2012,0.3724,growers
+1486,Philippines,2012,0.9638,growers
+1487,Sierra Leone,2012,0.3187,growers
+1488,Sri Lanka,2012,,growers
+1489,Tanzania,2012,,growers
+1490,Thailand,2012,1.0309,growers
+1491,Togo,2012,0.685,growers
+1492,Trinidad and Tobago,2012,,growers
+1493,Uganda,2012,0.718,growers
+1494,Vietnam,2012,0.8797,growers
+1495,Colombia,2013,1.1391,growers
+1496,Kenya,2013,,growers
+1497,Tanzania,2013,,growers
+1498,Bolivia,2013,2.0197,growers
+1499,Burundi,2013,,growers
+1500,Cameroon,2013,0.8287,growers
+1501,Costa Rica,2013,1.2465,growers
+1502,Cuba,2013,2.2196,growers
+1503,Congo,2013,,growers
+1504,Dominican Republic,2013,1.4098,growers
+1505,Ecuador,2013,1.2224,growers
+1506,El Salvador,2013,0.9528,growers
+1507,Guatemala,2013,1.2706,growers
+1508,Haiti,2013,,growers
+1509,Honduras,2013,1.018,growers
+1510,India,2013,1.1706,growers
+1511,Jamaica,2013,,growers
+1512,Madagascar,2013,,growers
+1513,Malawi,2013,,growers
+1514,Mexico,2013,,growers
+1515,Nicaragua,2013,0.3952,growers
+1516,Panama,2013,,growers
+1517,Papua New Guinea,2013,0.6199,growers
+1518,Peru,2013,0.9853,growers
+1519,Rwanda,2013,,growers
+1520,Sri Lanka,2013,,growers
+1521,Uganda,2013,0.7003,growers
+1522,Venezuela,2013,,growers
+1523,Zambia,2013,,growers
+1524,Zimbabwe,2013,,growers
+1525,Angola,2013,0.3764,growers
+1526,Brazil,2013,1.0214,growers
+1527,Ethiopia,2013,0.733,growers
+1528,Indonesia,2013,,growers
+1529,Philippines,2013,,growers
+1530,Thailand,2013,2.0344,growers
+1531,Vietnam,2013,,growers
+1532,Angola,2013,0.3137,growers
+1533,Benin,2013,,growers
+1534,Brazil,2013,0.8529,growers
+1535,Burundi,2013,,growers
+1536,Cameroon,2013,0.6643,growers
+1537,Central African Republic,2013,,growers
+1538,"Congo, Rep.",2013,,growers
+1539,Cote d'Ivoire,2013,0.5694,growers
+1540,Congo,2013,,growers
+1541,Ecuador,2013,0.764,growers
+1542,Gabon,2013,0.9184,growers
+1543,Ghana,2013,0.2136,growers
+1544,Guinea,2013,,growers
+1545,India,2013,0.9488,growers
+1546,Indonesia,2013,,growers
+1547,Liberia,2013,,growers
+1548,Madagascar,2013,,growers
+1549,Nigeria,2013,,growers
+1550,Papua New Guinea,2013,0.2404,growers
+1551,Philippines,2013,0.9017,growers
+1552,Sierra Leone,2013,,growers
+1553,Sri Lanka,2013,,growers
+1554,Tanzania,2013,,growers
+1555,Thailand,2013,1.0377,growers
+1556,Togo,2013,0.6656,growers
+1557,Trinidad and Tobago,2013,,growers
+1558,Uganda,2013,0.6771,growers
+1559,Vietnam,2013,0.9023,growers
+1560,Colombia,2014,1.5971,growers
+1561,Kenya,2014,,growers
+1562,Tanzania,2014,,growers
+1563,Bolivia,2014,2.3925,growers
+1564,Burundi,2014,,growers
+1565,Cameroon,2014,,growers
+1566,Costa Rica,2014,1.3077,growers
+1567,Cuba,2014,2.3571,growers
+1568,Congo,2014,,growers
+1569,Dominican Republic,2014,1.8356,growers
+1570,Ecuador,2014,1.0045,growers
+1571,El Salvador,2014,1.1701,growers
+1572,Guatemala,2014,1.5283,growers
+1573,Haiti,2014,,growers
+1574,Honduras,2014,1.1894,growers
+1575,India,2014,1.7565,growers
+1576,Jamaica,2014,,growers
+1577,Madagascar,2014,,growers
+1578,Malawi,2014,,growers
+1579,Mexico,2014,,growers
+1580,Nicaragua,2014,0.7185,growers
+1581,Panama,2014,,growers
+1582,Papua New Guinea,2014,0.8631,growers
+1583,Peru,2014,1.2569,growers
+1584,Rwanda,2014,,growers
+1585,Sri Lanka,2014,,growers
+1586,Uganda,2014,1.037,growers
+1587,Venezuela,2014,,growers
+1588,Zambia,2014,,growers
+1589,Zimbabwe,2014,,growers
+1590,Angola,2014,0.5461,growers
+1591,Brazil,2014,1.347,growers
+1592,Ethiopia,2014,0.8324,growers
+1593,Indonesia,2014,,growers
+1594,Philippines,2014,,growers
+1595,Thailand,2014,1.1333,growers
+1596,Vietnam,2014,,growers
+1597,Angola,2014,0.4615,growers
+1598,Benin,2014,,growers
+1599,Brazil,2014,0.8116,growers
+1600,Burundi,2014,,growers
+1601,Cameroon,2014,,growers
+1602,Central African Republic,2014,,growers
+1603,"Congo, Rep.",2014,,growers
+1604,Cote d'Ivoire,2014,0.5697,growers
+1605,Congo,2014,,growers
+1606,Ecuador,2014,0.4647,growers
+1607,Gabon,2014,0.9189,growers
+1608,Ghana,2014,0.1594,growers
+1609,Guinea,2014,,growers
+1610,India,2014,1.0463,growers
+1611,Indonesia,2014,,growers
+1612,Liberia,2014,,growers
+1613,Madagascar,2014,,growers
+1614,Nigeria,2014,,growers
+1615,Papua New Guinea,2014,0.2263,growers
+1616,Philippines,2014,,growers
+1617,Sierra Leone,2014,,growers
+1618,Sri Lanka,2014,,growers
+1619,Tanzania,2014,,growers
+1620,Thailand,2014,0.9204,growers
+1621,Togo,2014,0.5988,growers
+1622,Trinidad and Tobago,2014,,growers
+1623,Uganda,2014,0.7018,growers
+1624,Vietnam,2014,,growers
+1625,Colombia,2015,1.194,growers
+1626,Kenya,2015,,growers
+1627,Tanzania,2015,,growers
+1628,Bolivia,2015,2.3479,growers
+1629,Burundi,2015,,growers
+1630,Cameroon,2015,,growers
+1631,Costa Rica,2015,1.4584,growers
+1632,Cuba,2015,2.3571,growers
+1633,Congo,2015,,growers
+1634,Dominican Republic,2015,1.7101,growers
+1635,Ecuador,2015,,growers
+1636,El Salvador,2015,0.8745,growers
+1637,Guatemala,2015,1.3922,growers
+1638,Haiti,2015,,growers
+1639,Honduras,2015,1.1097,growers
+1640,India,2015,1.571,growers
+1641,Jamaica,2015,,growers
+1642,Madagascar,2015,,growers
+1643,Malawi,2015,,growers
+1644,Mexico,2015,,growers
+1645,Nicaragua,2015,,growers
+1646,Panama,2015,,growers
+1647,Papua New Guinea,2015,0.6652,growers
+1648,Peru,2015,1.0429,growers
+1649,Rwanda,2015,,growers
+1650,Sri Lanka,2015,,growers
+1651,Uganda,2015,0.8127,growers
+1652,Venezuela,2015,,growers
+1653,Zambia,2015,,growers
+1654,Zimbabwe,2015,,growers
+1655,Angola,2015,0.4581,growers
+1656,Brazil,2015,1.0449,growers
+1657,Ethiopia,2015,0.7603,growers
+1658,Indonesia,2015,,growers
+1659,Philippines,2015,,growers
+1660,Thailand,2015,1.2458,growers
+1661,Vietnam,2015,,growers
+1662,Angola,2015,0.3818,growers
+1663,Benin,2015,,growers
+1664,Brazil,2015,0.7353,growers
+1665,Burundi,2015,,growers
+1666,Cameroon,2015,,growers
+1667,Central African Republic,2015,0.4003,growers
+1668,"Congo, Rep.",2015,,growers
+1669,Cote d'Ivoire,2015,0.4987,growers
+1670,Congo,2015,,growers
+1671,Ecuador,2015,,growers
+1672,Gabon,2015,0.7707,growers
+1673,Ghana,2015,0.2412,growers
+1674,Guinea,2015,,growers
+1675,India,2015,0.8795,growers
+1676,Indonesia,2015,,growers
+1677,Liberia,2015,,growers
+1678,Madagascar,2015,,growers
+1679,Nigeria,2015,,growers
+1680,Papua New Guinea,2015,0.251,growers
+1681,Philippines,2015,,growers
+1682,Sierra Leone,2015,,growers
+1683,Sri Lanka,2015,,growers
+1684,Tanzania,2015,,growers
+1685,Thailand,2015,0.9653,growers
+1686,Togo,2015,0.5955,growers
+1687,Trinidad and Tobago,2015,,growers
+1688,Uganda,2015,0.6022,growers
+1689,Vietnam,2015,,growers
+1690,Colombia,2016,1.2356,growers
+1691,Kenya,2016,,growers
+1692,Tanzania,2016,,growers
+1693,Bolivia,2016,2.7179,growers
+1694,Burundi,2016,,growers
+1695,Cameroon,2016,,growers
+1696,Costa Rica,2016,1.2911,growers
+1697,Cuba,2016,2.3571,growers
+1698,Congo,2016,,growers
+1699,Dominican Republic,2016,1.7719,growers
+1700,Ecuador,2016,,growers
+1701,El Salvador,2016,0.8953,growers
+1702,Guatemala,2016,1.3547,growers
+1703,Haiti,2016,,growers
+1704,Honduras,2016,0.9317,growers
+1705,India,2016,1.3221,growers
+1706,Jamaica,2016,,growers
+1707,Madagascar,2016,,growers
+1708,Malawi,2016,,growers
+1709,Mexico,2016,,growers
+1710,Nicaragua,2016,,growers
+1711,Panama,2016,,growers
+1712,Papua New Guinea,2016,0.575,growers
+1713,Peru,2016,0.7884,growers
+1714,Rwanda,2016,,growers
+1715,Sri Lanka,2016,,growers
+1716,Uganda,2016,0.7109,growers
+1717,Venezuela,2016,,growers
+1718,Zambia,2016,,growers
+1719,Zimbabwe,2016,,growers
+1720,Angola,2016,1.0046,growers
+1721,Brazil,2016,1.0783,growers
+1722,Ethiopia,2016,0.8731,growers
+1723,Indonesia,2016,,growers
+1724,Philippines,2016,,growers
+1725,Thailand,2016,,growers
+1726,Vietnam,2016,,growers
+1727,Angola,2016,0.7833,growers
+1728,Benin,2016,,growers
+1729,Brazil,2016,0.9278,growers
+1730,Burundi,2016,,growers
+1731,Cameroon,2016,,growers
+1732,Central African Republic,2016,0.3074,growers
+1733,"Congo, Rep.",2016,,growers
+1734,Cote d'Ivoire,2016,0.5276,growers
+1735,Congo,2016,,growers
+1736,Ecuador,2016,,growers
+1737,Gabon,2016,,growers
+1738,Ghana,2016,0.3848,growers
+1739,Guinea,2016,,growers
+1740,India,2016,0.8271,growers
+1741,Indonesia,2016,,growers
+1742,Liberia,2016,,growers
+1743,Madagascar,2016,,growers
+1744,Nigeria,2016,,growers
+1745,Papua New Guinea,2016,0.2154,growers
+1746,Philippines,2016,,growers
+1747,Sierra Leone,2016,,growers
+1748,Sri Lanka,2016,,growers
+1749,Tanzania,2016,,growers
+1750,Thailand,2016,,growers
+1751,Togo,2016,0.6573,growers
+1752,Trinidad and Tobago,2016,,growers
+1753,Uganda,2016,0.5941,growers
+1754,Vietnam,2016,,growers
+1755,Colombia,2017,1.2576,growers
+1756,Kenya,2017,,growers
+1757,Tanzania,2017,,growers
+1758,Bolivia,2017,4.7162,growers
+1759,Burundi,2017,,growers
+1760,Cameroon,2017,,growers
+1761,Costa Rica,2017,1.3809,growers
+1762,Cuba,2017,2.3571,growers
+1763,Congo,2017,0.6237,growers
+1764,Dominican Republic,2017,1.7336,growers
+1765,Ecuador,2017,,growers
+1766,El Salvador,2017,0.8762,growers
+1767,Guatemala,2017,1.3412,growers
+1768,Haiti,2017,,growers
+1769,Honduras,2017,0.9077,growers
+1770,India,2017,1.3575,growers
+1771,Jamaica,2017,,growers
+1772,Madagascar,2017,,growers
+1773,Malawi,2017,,growers
+1774,Mexico,2017,,growers
+1775,Nicaragua,2017,,growers
+1776,Panama,2017,,growers
+1777,Papua New Guinea,2017,,growers
+1778,Peru,2017,,growers
+1779,Rwanda,2017,,growers
+1780,Sri Lanka,2017,,growers
+1781,Uganda,2017,0.77,growers
+1782,Venezuela,2017,,growers
+1783,Zambia,2017,,growers
+1784,Zimbabwe,2017,,growers
+1785,Angola,2017,1.5948,growers
+1786,Brazil,2017,1.1048,growers
+1787,Ethiopia,2017,0.8151,growers
+1788,Indonesia,2017,,growers
+1789,Philippines,2017,,growers
+1790,Thailand,2017,,growers
+1791,Vietnam,2017,,growers
+1792,Angola,2017,1.3214,growers
+1793,Benin,2017,,growers
+1794,Brazil,2017,0.9821,growers
+1795,Burundi,2017,,growers
+1796,Cameroon,2017,,growers
+1797,Central African Republic,2017,,growers
+1798,"Congo, Rep.",2017,,growers
+1799,Cote d'Ivoire,2017,0.5856,growers
+1800,Congo,2017,0.4536,growers
+1801,Ecuador,2017,,growers
+1802,Gabon,2017,,growers
+1803,Ghana,2017,0.4089,growers
+1804,Guinea,2017,,growers
+1805,India,2017,0.9497,growers
+1806,Indonesia,2017,,growers
+1807,Liberia,2017,,growers
+1808,Madagascar,2017,,growers
+1809,Nigeria,2017,,growers
+1810,Papua New Guinea,2017,,growers
+1811,Philippines,2017,,growers
+1812,Sierra Leone,2017,,growers
+1813,Sri Lanka,2017,,growers
+1814,Tanzania,2017,,growers
+1815,Thailand,2017,,growers
+1816,Togo,2017,0.6873,growers
+1817,Trinidad and Tobago,2017,,growers
+1818,Uganda,2017,0.6395,growers
+1819,Vietnam,2017,,growers
+1820,Colombia,2018,1.1352,growers
+1821,Kenya,2018,,growers
+1822,Tanzania,2018,,growers
+1823,Bolivia,2018,4.5515,growers
+1824,Burundi,2018,,growers
+1825,Cameroon,2018,0.7079,growers
+1826,Costa Rica,2018,,growers
+1827,Cuba,2018,,growers
+1828,Congo,2018,0.6237,growers
+1829,Dominican Republic,2018,1.5361,growers
+1830,Ecuador,2018,,growers
+1831,El Salvador,2018,0.7453,growers
+1832,Guatemala,2018,1.2218,growers
+1833,Haiti,2018,,growers
+1834,Honduras,2018,0.8404,growers
+1835,India,2018,1.1012,growers
+1836,Jamaica,2018,,growers
+1837,Madagascar,2018,,growers
+1838,Malawi,2018,,growers
+1839,Mexico,2018,,growers
+1840,Nicaragua,2018,,growers
+1841,Panama,2018,,growers
+1842,Papua New Guinea,2018,,growers
+1843,Peru,2018,,growers
+1844,Rwanda,2018,,growers
+1845,Sri Lanka,2018,,growers
+1846,Uganda,2018,0.6825,growers
+1847,Venezuela,2018,,growers
+1848,Zambia,2018,,growers
+1849,Zimbabwe,2018,,growers
+1850,Angola,2018,1.2052,growers
+1851,Brazil,2018,0.9078,growers
+1852,Ethiopia,2018,0.7068,growers
+1853,Indonesia,2018,,growers
+1854,Philippines,2018,,growers
+1855,Thailand,2018,,growers
+1856,Vietnam,2018,,growers
+1857,Angola,2018,1.0043,growers
+1858,Benin,2018,,growers
+1859,Brazil,2018,0.6742,growers
+1860,Burundi,2018,,growers
+1861,Cameroon,2018,0.4522,growers
+1862,Central African Republic,2018,,growers
+1863,"Congo, Rep.",2018,,growers
+1864,Cote d'Ivoire,2018,0.6197,growers
+1865,Congo,2018,0.4536,growers
+1866,Ecuador,2018,,growers
+1867,Gabon,2018,,growers
+1868,Ghana,2018,,growers
+1869,Guinea,2018,,growers
+1870,India,2018,0.7848,growers
+1871,Indonesia,2018,,growers
+1872,Liberia,2018,,growers
+1873,Madagascar,2018,,growers
+1874,Nigeria,2018,,growers
+1875,Papua New Guinea,2018,,growers
+1876,Philippines,2018,,growers
+1877,Sierra Leone,2018,,growers
+1878,Sri Lanka,2018,,growers
+1879,Tanzania,2018,,growers
+1880,Thailand,2018,,growers
+1881,Togo,2018,0.7093,growers
+1882,Trinidad and Tobago,2018,,growers
+1883,Uganda,2018,0.5723,growers
+1884,Vietnam,2018,,growers
+1885,Colombia,2019,1.0868,growers
+1886,Kenya,2019,,growers
+1887,Tanzania,2019,,growers
+1888,Bolivia,2019,8.5829,growers
+1889,Burundi,2019,,growers
+1890,Cameroon,2019,0.7085,growers
+1891,Costa Rica,2019,,growers
+1892,Cuba,2019,,growers
+1893,Congo,2019,0.6237,growers
+1894,Dominican Republic,2019,1.4826,growers
+1895,Ecuador,2019,,growers
+1896,El Salvador,2019,0.6555,growers
+1897,Guatemala,2019,,growers
+1898,Haiti,2019,,growers
+1899,Honduras,2019,0.7237,growers
+1900,India,2019,1.0596,growers
+1901,Jamaica,2019,,growers
+1902,Madagascar,2019,,growers
+1903,Malawi,2019,,growers
+1904,Mexico,2019,,growers
+1905,Nicaragua,2019,,growers
+1906,Panama,2019,,growers
+1907,Papua New Guinea,2019,,growers
+1908,Peru,2019,,growers
+1909,Rwanda,2019,,growers
+1910,Sri Lanka,2019,,growers
+1911,Uganda,2019,0.6085,growers
+1912,Venezuela,2019,,growers
+1913,Zambia,2019,,growers
+1914,Zimbabwe,2019,,growers
+1915,Angola,2019,,growers
+1916,Brazil,2019,0.8148,growers
+1917,Ethiopia,2019,0.6931,growers
+1918,Indonesia,2019,,growers
+1919,Philippines,2019,,growers
+1920,Thailand,2019,,growers
+1921,Vietnam,2019,,growers
+1922,Angola,2019,,growers
+1923,Benin,2019,,growers
+1924,Brazil,2019,0.5645,growers
+1925,Burundi,2019,,growers
+1926,Cameroon,2019,0.4526,growers
+1927,Central African Republic,2019,,growers
+1928,"Congo, Rep.",2019,,growers
+1929,Cote d'Ivoire,2019,,growers
+1930,Congo,2019,0.4536,growers
+1931,Ecuador,2019,,growers
+1932,Gabon,2019,,growers
+1933,Ghana,2019,,growers
+1934,Guinea,2019,,growers
+1935,India,2019,0.7068,growers
+1936,Indonesia,2019,,growers
+1937,Liberia,2019,,growers
+1938,Madagascar,2019,,growers
+1939,Nigeria,2019,,growers
+1940,Papua New Guinea,2019,,growers
+1941,Philippines,2019,,growers
+1942,Sierra Leone,2019,,growers
+1943,Sri Lanka,2019,,growers
+1944,Tanzania,2019,,growers
+1945,Thailand,2019,,growers
+1946,Togo,2019,0.705,growers
+1947,Trinidad and Tobago,2019,,growers
+1948,Uganda,2019,0.5461,growers
+1949,Vietnam,2019,,growers
+0,Austria,1990,4.9,retail
+1,Belgium,1990,3.27,retail
+2,Bulgaria,1990,,retail
+3,Cyprus,1990,2.83,retail
+4,Czechia,1990,,retail
+5,Denmark,1990,3.81,retail
+6,Finland,1990,2.98,retail
+7,France,1990,3.73,retail
+8,Germany,1990,3.99,retail
+9,Hungary,1990,,retail
+10,Italy,1990,5.31,retail
+11,Latvia,1990,,retail
+12,Lithuania,1990,,retail
+13,Luxembourg,1990,,retail
+14,Malta,1990,,retail
+15,Netherlands,1990,3.03,retail
+16,Poland,1990,,retail
+17,Portugal,1990,4.12,retail
+18,Slovakia,1990,,retail
+19,Slovenia,1990,,retail
+20,Spain,1990,3.62,retail
+21,Sweden,1990,3.43,retail
+22,Japan,1990,10.26,retail
+23,Norway,1990,3.31,retail
+24,Russian Federation,1990,,retail
+25,Switzerland,1990,4.83,retail
+26,United Kingdom,1990,10.55,retail
+27,United States,1990,2.97,retail
+28,AVG,1990,4.53,retail
+29,Austria,1991,4.57,retail
+30,Belgium,1991,2.92,retail
+31,Bulgaria,1991,,retail
+32,Cyprus,1991,2.8,retail
+33,Czechia,1991,,retail
+34,Denmark,1991,3.67,retail
+35,Finland,1991,2.72,retail
+36,France,1991,3.43,retail
+37,Germany,1991,3.84,retail
+38,Hungary,1991,,retail
+39,Italy,1991,5.62,retail
+40,Latvia,1991,,retail
+41,Lithuania,1991,,retail
+42,Luxembourg,1991,,retail
+43,Malta,1991,,retail
+44,Netherlands,1991,2.95,retail
+45,Poland,1991,,retail
+46,Portugal,1991,4.27,retail
+47,Slovakia,1991,,retail
+48,Slovenia,1991,,retail
+49,Spain,1991,3.5,retail
+50,Sweden,1991,3.29,retail
+51,Japan,1991,11.88,retail
+52,Norway,1991,3.16,retail
+53,Russian Federation,1991,,retail
+54,Switzerland,1991,4.36,retail
+55,United Kingdom,1991,10.41,retail
+56,United States,1991,2.81,retail
+57,AVG,1991,4.48,retail
+58,Austria,1992,4.99,retail
+59,Belgium,1992,3.05,retail
+60,Bulgaria,1992,,retail
+61,Cyprus,1992,2.87,retail
+62,Czechia,1992,,retail
+63,Denmark,1992,3.79,retail
+64,Finland,1992,2.46,retail
+65,France,1992,2.31,retail
+66,Germany,1992,4,retail
+67,Hungary,1992,,retail
+68,Italy,1992,5.86,retail
+69,Latvia,1992,,retail
+70,Lithuania,1992,,retail
+71,Luxembourg,1992,,retail
+72,Malta,1992,,retail
+73,Netherlands,1992,3.13,retail
+74,Poland,1992,,retail
+75,Portugal,1992,4.95,retail
+76,Slovakia,1992,,retail
+77,Slovenia,1992,,retail
+78,Spain,1992,3.5,retail
+79,Sweden,1992,3.11,retail
+80,Japan,1992,12.62,retail
+81,Norway,1992,3.12,retail
+82,Russian Federation,1992,,retail
+83,Switzerland,1992,4.52,retail
+84,United Kingdom,1992,10.09,retail
+85,United States,1992,2.58,retail
+86,AVG,1992,4.53,retail
+87,Austria,1993,4.97,retail
+88,Belgium,1993,2.78,retail
+89,Bulgaria,1993,,retail
+90,Cyprus,1993,2.6,retail
+91,Czechia,1993,,retail
+92,Denmark,1993,3.48,retail
+93,Finland,1993,1.94,retail
+94,France,1993,2.03,retail
+95,Germany,1993,3.62,retail
+96,Hungary,1993,,retail
+97,Italy,1993,4.59,retail
+98,Latvia,1993,1.84,retail
+99,Lithuania,1993,,retail
+100,Luxembourg,1993,,retail
+101,Malta,1993,,retail
+102,Netherlands,1993,2.8,retail
+103,Poland,1993,,retail
+104,Portugal,1993,4.27,retail
+105,Slovakia,1993,,retail
+106,Slovenia,1993,,retail
+107,Spain,1993,2.79,retail
+108,Sweden,1993,2.65,retail
+109,Japan,1993,14.57,retail
+110,Norway,1993,2.46,retail
+111,Russian Federation,1993,,retail
+112,Switzerland,1993,4.27,retail
+113,United Kingdom,1993,8.44,retail
+114,United States,1993,2.47,retail
+115,AVG,1993,4.03,retail
+116,Austria,1994,4.58,retail
+117,Belgium,1994,3.42,retail
+118,Bulgaria,1994,,retail
+119,Cyprus,1994,3.18,retail
+120,Czechia,1994,,retail
+121,Denmark,1994,4.45,retail
+122,Finland,1994,2.73,retail
+123,France,1994,2.4,retail
+124,Germany,1994,4.18,retail
+125,Hungary,1994,3.88,retail
+126,Italy,1994,4.68,retail
+127,Latvia,1994,2.21,retail
+128,Lithuania,1994,,retail
+129,Luxembourg,1994,,retail
+130,Malta,1994,,retail
+131,Netherlands,1994,3.26,retail
+132,Poland,1994,,retail
+133,Portugal,1994,4.38,retail
+134,Slovakia,1994,,retail
+135,Slovenia,1994,,retail
+136,Spain,1994,2.76,retail
+137,Sweden,1994,3.79,retail
+138,Japan,1994,14.69,retail
+139,Norway,1994,3.29,retail
+140,Russian Federation,1994,,retail
+141,Switzerland,1994,4.5,retail
+142,United Kingdom,1994,11.36,retail
+143,United States,1994,3.4,retail
+144,AVG,1994,4.59,retail
+145,Austria,1995,5.18,retail
+146,Belgium,1995,4.88,retail
+147,Bulgaria,1995,,retail
+148,Cyprus,1995,4.26,retail
+149,Czechia,1995,,retail
+150,Denmark,1995,5.57,retail
+151,Finland,1995,3.97,retail
+152,France,1995,3.69,retail
+153,Germany,1995,5.02,retail
+154,Hungary,1995,5.04,retail
+155,Italy,1995,5.7,retail
+156,Latvia,1995,3.88,retail
+157,Lithuania,1995,,retail
+158,Luxembourg,1995,,retail
+159,Malta,1995,7.8,retail
+160,Netherlands,1995,4.03,retail
+161,Poland,1995,5.67,retail
+162,Portugal,1995,6.24,retail
+163,Slovakia,1995,,retail
+164,Slovenia,1995,,retail
+165,Spain,1995,4.45,retail
+166,Sweden,1995,4.85,retail
+167,Japan,1995,17.72,retail
+168,Norway,1995,4.54,retail
+169,Russian Federation,1995,,retail
+170,Switzerland,1995,6.32,retail
+171,United Kingdom,1995,13.79,retail
+172,United States,1995,4.04,retail
+173,AVG,1995,6.03,retail
+174,Austria,1996,5.42,retail
+175,Belgium,1996,4.04,retail
+176,Bulgaria,1996,,retail
+177,Cyprus,1996,4.13,retail
+178,Czechia,1996,,retail
+179,Denmark,1996,4.81,retail
+180,Finland,1996,3.22,retail
+181,France,1996,3.3,retail
+182,Germany,1996,4.17,retail
+183,Hungary,1996,4.62,retail
+184,Italy,1996,5.92,retail
+185,Latvia,1996,4.18,retail
+186,Lithuania,1996,,retail
+187,Luxembourg,1996,,retail
+188,Malta,1996,11.95,retail
+189,Netherlands,1996,3.65,retail
+190,Poland,1996,4.37,retail
+191,Portugal,1996,5.92,retail
+192,Slovakia,1996,,retail
+193,Slovenia,1996,,retail
+194,Spain,1996,4.18,retail
+195,Sweden,1996,3.96,retail
+196,Japan,1996,15.24,retail
+197,Norway,1996,3.9,retail
+198,Russian Federation,1996,,retail
+199,Switzerland,1996,5.43,retail
+200,United Kingdom,1996,13.35,retail
+201,United States,1996,3.43,retail
+202,AVG,1996,5.68,retail
+203,Austria,1997,4.37,retail
+204,Belgium,1997,3.98,retail
+205,Bulgaria,1997,,retail
+206,Cyprus,1997,4.04,retail
+207,Czechia,1997,4.31,retail
+208,Denmark,1997,4.96,retail
+209,Finland,1997,3.5,retail
+210,France,1997,2.76,retail
+211,Germany,1997,4.03,retail
+212,Hungary,1997,3.89,retail
+213,Italy,1997,5.45,retail
+214,Latvia,1997,4.58,retail
+215,Lithuania,1997,4.74,retail
+216,Luxembourg,1997,,retail
+217,Malta,1997,12.2,retail
+218,Netherlands,1997,3.67,retail
+219,Poland,1997,3.54,retail
+220,Portugal,1997,5.04,retail
+221,Slovakia,1997,3.39,retail
+222,Slovenia,1997,,retail
+223,Spain,1997,3.57,retail
+224,Sweden,1997,4.35,retail
+225,Japan,1997,14.22,retail
+226,Norway,1997,4.11,retail
+227,Russian Federation,1997,,retail
+228,Switzerland,1997,4.79,retail
+229,United Kingdom,1997,14.9,retail
+230,United States,1997,4.11,retail
+231,AVG,1997,5.35,retail
+232,Austria,1998,3.97,retail
+233,Belgium,1998,4.19,retail
+234,Bulgaria,1998,,retail
+235,Cyprus,1998,4.61,retail
+236,Czechia,1998,5.1,retail
+237,Denmark,1998,4.92,retail
+238,Finland,1998,3.42,retail
+239,France,1998,2.78,retail
+240,Germany,1998,4.04,retail
+241,Hungary,1998,3.75,retail
+242,Italy,1998,5.53,retail
+243,Latvia,1998,4.91,retail
+244,Lithuania,1998,4.75,retail
+245,Luxembourg,1998,,retail
+246,Malta,1998,10.03,retail
+247,Netherlands,1998,3.67,retail
+248,Poland,1998,3.63,retail
+249,Portugal,1998,4.88,retail
+250,Slovakia,1998,3.48,retail
+251,Slovenia,1998,,retail
+252,Spain,1998,3.62,retail
+253,Sweden,1998,4.41,retail
+254,Japan,1998,13.52,retail
+255,Norway,1998,3.9,retail
+256,Russian Federation,1998,,retail
+257,Switzerland,1998,5.04,retail
+258,United Kingdom,1998,15.42,retail
+259,United States,1998,3.77,retail
+260,AVG,1998,5.31,retail
+261,Austria,1999,3.28,retail
+262,Belgium,1999,3.55,retail
+263,Bulgaria,1999,,retail
+264,Cyprus,1999,4.39,retail
+265,Czechia,1999,3.91,retail
+266,Denmark,1999,3.93,retail
+267,Finland,1999,2.6,retail
+268,France,1999,2.55,retail
+269,Germany,1999,3.42,retail
+270,Hungary,1999,3.44,retail
+271,Italy,1999,5.16,retail
+272,Latvia,1999,4.2,retail
+273,Lithuania,1999,4.34,retail
+274,Luxembourg,1999,4.95,retail
+275,Malta,1999,9.23,retail
+276,Netherlands,1999,3.11,retail
+277,Poland,1999,3.19,retail
+278,Portugal,1999,4.65,retail
+279,Slovakia,1999,2.86,retail
+280,Slovenia,1999,4.72,retail
+281,Spain,1999,3.23,retail
+282,Sweden,1999,3.51,retail
+283,Japan,1999,15.32,retail
+284,Norway,1999,3.35,retail
+285,Russian Federation,1999,,retail
+286,Switzerland,1999,4.82,retail
+287,United Kingdom,1999,14.33,retail
+288,United States,1999,3.43,retail
+289,AVG,1999,4.83,retail
+290,Austria,2000,3.05,retail
+291,Belgium,2000,3.22,retail
+292,Bulgaria,2000,,retail
+293,Cyprus,2000,3.58,retail
+294,Czechia,2000,3.36,retail
+295,Denmark,2000,3.45,retail
+296,Finland,2000,2.29,retail
+297,France,2000,2.15,retail
+298,Germany,2000,2.83,retail
+299,Hungary,2000,2.72,retail
+300,Italy,2000,4.44,retail
+301,Latvia,2000,3.97,retail
+302,Lithuania,2000,3.62,retail
+303,Luxembourg,2000,4.23,retail
+304,Malta,2000,8.4,retail
+305,Netherlands,2000,2.81,retail
+306,Poland,2000,2.81,retail
+307,Portugal,2000,3.95,retail
+308,Slovakia,2000,2.44,retail
+309,Slovenia,2000,3.56,retail
+310,Spain,2000,2.69,retail
+311,Sweden,2000,3.03,retail
+312,Japan,2000,12.92,retail
+313,Norway,2000,2.98,retail
+314,Russian Federation,2000,,retail
+315,Switzerland,2000,4.09,retail
+316,United Kingdom,2000,12.91,retail
+317,United States,2000,3.45,retail
+318,AVG,2000,4.19,retail
+319,Austria,2001,2.93,retail
+320,Belgium,2001,3,retail
+321,Bulgaria,2001,,retail
+322,Cyprus,2001,3.58,retail
+323,Czechia,2001,2.91,retail
+324,Denmark,2001,3.19,retail
+325,Finland,2001,1.98,retail
+326,France,2001,1.99,retail
+327,Germany,2001,2.63,retail
+328,Hungary,2001,2.59,retail
+329,Italy,2001,4.33,retail
+330,Latvia,2001,3.28,retail
+331,Lithuania,2001,3.25,retail
+332,Luxembourg,2001,4.07,retail
+333,Malta,2001,8.03,retail
+334,Netherlands,2001,2.55,retail
+335,Poland,2001,2.57,retail
+336,Portugal,2001,3.87,retail
+337,Slovakia,2001,2.26,retail
+338,Slovenia,2001,3.05,retail
+339,Spain,2001,2.54,retail
+340,Sweden,2001,2.54,retail
+341,Japan,2001,8.6,retail
+342,Norway,2001,2.86,retail
+343,Russian Federation,2001,,retail
+344,Switzerland,2001,4.09,retail
+345,United Kingdom,2001,11.85,retail
+346,United States,2001,3.09,retail
+347,AVG,2001,3.76,retail
+348,Austria,2002,2.86,retail
+349,Belgium,2002,3.05,retail
+350,Bulgaria,2002,2.15,retail
+351,Cyprus,2002,4.05,retail
+352,Czechia,2002,2.99,retail
+353,Denmark,2002,3.09,retail
+354,Finland,2002,1.84,retail
+355,France,2002,2.07,retail
+356,Germany,2002,2.73,retail
+357,Hungary,2002,2.81,retail
+358,Italy,2002,4.57,retail
+359,Latvia,2002,3.22,retail
+360,Lithuania,2002,3.39,retail
+361,Luxembourg,2002,4.29,retail
+362,Malta,2002,7.97,retail
+363,Netherlands,2002,2.6,retail
+364,Poland,2002,2.11,retail
+365,Portugal,2002,3.9,retail
+366,Slovakia,2002,2.2,retail
+367,Slovenia,2002,3.1,retail
+368,Spain,2002,2.58,retail
+369,Sweden,2002,2.55,retail
+370,Japan,2002,8.13,retail
+371,Norway,2002,3.09,retail
+372,Russian Federation,2002,,retail
+373,Switzerland,2002,4.46,retail
+374,United Kingdom,2002,12.11,retail
+375,United States,2002,2.92,retail
+376,AVG,2002,3.73,retail
+377,Austria,2003,3.18,retail
+378,Belgium,2003,3.6,retail
+379,Bulgaria,2003,2.68,retail
+380,Cyprus,2003,4.92,retail
+381,Czechia,2003,3.1,retail
+382,Denmark,2003,3.57,retail
+383,Finland,2003,2.13,retail
+384,France,2003,2.5,retail
+385,Germany,2003,3.18,retail
+386,Hungary,2003,3.15,retail
+387,Italy,2003,5.47,retail
+388,Latvia,2003,3.35,retail
+389,Lithuania,2003,3.79,retail
+390,Luxembourg,2003,5.28,retail
+391,Malta,2003,9.49,retail
+392,Netherlands,2003,3.2,retail
+393,Poland,2003,2.12,retail
+394,Portugal,2003,4.61,retail
+395,Slovakia,2003,2.47,retail
+396,Slovenia,2003,3.74,retail
+397,Spain,2003,3,retail
+398,Sweden,2003,2.94,retail
+399,Japan,2003,8.19,retail
+400,Norway,2003,3.48,retail
+401,Russian Federation,2003,,retail
+402,Switzerland,2003,5.12,retail
+403,United Kingdom,2003,13.34,retail
+404,United States,2003,2.92,retail
+405,AVG,2003,4.24,retail
+406,Austria,2004,3.33,retail
+407,Belgium,2004,3.87,retail
+408,Bulgaria,2004,2.93,retail
+409,Cyprus,2004,5.23,retail
+410,Czechia,2004,3.46,retail
+411,Denmark,2004,3.96,retail
+412,Finland,2004,2.34,retail
+413,France,2004,2.72,retail
+414,Germany,2004,3.33,retail
+415,Hungary,2004,3.47,retail
+416,Italy,2004,6.01,retail
+417,Latvia,2004,3.72,retail
+418,Lithuania,2004,3.71,retail
+419,Luxembourg,2004,5.79,retail
+420,Malta,2004,10.3,retail
+421,Netherlands,2004,3.47,retail
+422,Poland,2004,2.26,retail
+423,Portugal,2004,4.9,retail
+424,Slovakia,2004,2.7,retail
+425,Slovenia,2004,3.73,retail
+426,Spain,2004,3.23,retail
+427,Sweden,2004,3.08,retail
+428,Japan,2004,8.75,retail
+429,Norway,2004,3.84,retail
+430,Russian Federation,2004,,retail
+431,Switzerland,2004,5.69,retail
+432,United Kingdom,2004,14.56,retail
+433,United States,2004,2.85,retail
+434,AVG,2004,4.56,retail
+435,Austria,2005,3.77,retail
+436,Belgium,2005,4.1,retail
+437,Bulgaria,2005,2.92,retail
+438,Cyprus,2005,5.28,retail
+439,Czechia,2005,3.79,retail
+440,Denmark,2005,4.28,retail
+441,Finland,2005,2.84,retail
+442,France,2005,2.75,retail
+443,Germany,2005,4.06,retail
+444,Hungary,2005,3.71,retail
+445,Italy,2005,6.13,retail
+446,Latvia,2005,3.93,retail
+447,Lithuania,2005,3.78,retail
+448,Luxembourg,2005,6.04,retail
+449,Malta,2005,10.36,retail
+450,Netherlands,2005,3.75,retail
+451,Poland,2005,2.56,retail
+452,Portugal,2005,4.88,retail
+453,Slovakia,2005,2.79,retail
+454,Slovenia,2005,3.72,retail
+455,Spain,2005,3.22,retail
+456,Sweden,2005,2.99,retail
+457,Japan,2005,8.22,retail
+458,Norway,2005,4.11,retail
+459,Russian Federation,2005,,retail
+460,Switzerland,2005,5.86,retail
+461,United Kingdom,2005,14.74,retail
+462,United States,2005,3.26,retail
+463,AVG,2005,4.73,retail
+464,Austria,2006,4.13,retail
+465,Belgium,2006,4.32,retail
+466,Bulgaria,2006,2.9,retail
+467,Cyprus,2006,5.34,retail
+468,Czechia,2006,3.95,retail
+469,Denmark,2006,4.43,retail
+470,Finland,2006,2.94,retail
+471,France,2006,2.97,retail
+472,Germany,2006,4.33,retail
+473,Hungary,2006,3.66,retail
+474,Italy,2006,6.29,retail
+475,Latvia,2006,4.29,retail
+476,Lithuania,2006,4.02,retail
+477,Luxembourg,2006,6.44,retail
+478,Malta,2006,10.93,retail
+479,Netherlands,2006,3.96,retail
+480,Poland,2006,2.76,retail
+481,Portugal,2006,4.77,retail
+482,Slovakia,2006,3.05,retail
+483,Slovenia,2006,3.98,retail
+484,Spain,2006,3.42,retail
+485,Sweden,2006,3.16,retail
+486,Japan,2006,8.16,retail
+487,Norway,2006,3.89,retail
+488,Russian Federation,2006,,retail
+489,Switzerland,2006,,retail
+490,United Kingdom,2006,15.82,retail
+491,United States,2006,3.2,retail
+492,AVG,2006,4.89,retail
+493,Austria,2007,4.27,retail
+494,Belgium,2007,4.91,retail
+495,Bulgaria,2007,3.48,retail
+496,Cyprus,2007,5.76,retail
+497,Czechia,2007,4.39,retail
+498,Denmark,2007,4.82,retail
+499,Finland,2007,3.25,retail
+500,France,2007,3.41,retail
+501,Germany,2007,4.69,retail
+502,Hungary,2007,4.6,retail
+503,Italy,2007,7.02,retail
+504,Latvia,2007,4.83,retail
+505,Lithuania,2007,4.59,retail
+506,Luxembourg,2007,6.78,retail
+507,Malta,2007,12.14,retail
+508,Netherlands,2007,4.45,retail
+509,Poland,2007,3.49,retail
+510,Portugal,2007,5.08,retail
+511,Slovakia,2007,3.88,retail
+512,Slovenia,2007,4.53,retail
+513,Spain,2007,3.85,retail
+514,Sweden,2007,3.53,retail
+515,Japan,2007,8.09,retail
+516,Norway,2007,4.47,retail
+517,Russian Federation,2007,,retail
+518,Switzerland,2007,,retail
+519,United Kingdom,2007,17.92,retail
+520,United States,2007,3.47,retail
+521,AVG,2007,5.45,retail
+522,Austria,2008,4.74,retail
+523,Belgium,2008,5.46,retail
+524,Bulgaria,2008,4.05,retail
+525,Cyprus,2008,5.67,retail
+526,Czechia,2008,5.76,retail
+527,Denmark,2008,5.4,retail
+528,Finland,2008,3.72,retail
+529,France,2008,3.86,retail
+530,Germany,2008,5.13,retail
+531,Hungary,2008,5.47,retail
+532,Italy,2008,7.87,retail
+533,Latvia,2008,5.89,retail
+534,Lithuania,2008,5.44,retail
+535,Luxembourg,2008,7.52,retail
+536,Malta,2008,13.21,retail
+537,Netherlands,2008,5.05,retail
+538,Poland,2008,4.45,retail
+539,Portugal,2008,5.68,retail
+540,Slovakia,2008,5.02,retail
+541,Slovenia,2008,4.98,retail
+542,Spain,2008,4.31,retail
+543,Sweden,2008,3.76,retail
+544,Japan,2008,8.32,retail
+545,Norway,2008,4.69,retail
+546,Russian Federation,2008,,retail
+547,Switzerland,2008,,retail
+548,United Kingdom,2008,16.83,retail
+549,United States,2008,,retail
+550,AVG,2008,6.09,retail
+551,Austria,2009,6.95,retail
+552,Belgium,2009,5.26,retail
+553,Bulgaria,2009,3.84,retail
+554,Cyprus,2009,5.53,retail
+555,Czechia,2009,5.16,retail
+556,Denmark,2009,5.29,retail
+557,Finland,2009,3.51,retail
+558,France,2009,3.79,retail
+559,Germany,2009,4.75,retail
+560,Hungary,2009,4.97,retail
+561,Italy,2009,7.68,retail
+562,Latvia,2009,6.1,retail
+563,Lithuania,2009,5.16,retail
+564,Luxembourg,2009,7.29,retail
+565,Malta,2009,12.96,retail
+566,Netherlands,2009,4.7,retail
+567,Poland,2009,3.49,retail
+568,Portugal,2009,5.3,retail
+569,Slovakia,2009,5.08,retail
+570,Slovenia,2009,4.77,retail
+571,Spain,2009,4.16,retail
+572,Sweden,2009,3.55,retail
+573,Japan,2009,6.07,retail
+574,Norway,2009,4.02,retail
+575,Russian Federation,2009,,retail
+576,Switzerland,2009,5.3,retail
+577,United Kingdom,2009,15.99,retail
+578,United States,2009,3.67,retail
+579,AVG,2009,5.72,retail
+580,Austria,2010,6.69,retail
+581,Belgium,2010,5.18,retail
+582,Bulgaria,2010,3.62,retail
+583,Cyprus,2010,5.21,retail
+584,Czechia,2010,5.01,retail
+585,Denmark,2010,5.44,retail
+586,Finland,2010,3.69,retail
+587,France,2010,3.62,retail
+588,Germany,2010,4.76,retail
+589,Hungary,2010,5.02,retail
+590,Italy,2010,7.34,retail
+591,Latvia,2010,6.1,retail
+592,Lithuania,2010,5.37,retail
+593,Luxembourg,2010,7.11,retail
+594,Malta,2010,13.1,retail
+595,Netherlands,2010,4.57,retail
+596,Poland,2010,3.64,retail
+597,Portugal,2010,4.93,retail
+598,Slovakia,2010,4.84,retail
+599,Slovenia,2010,4.31,retail
+600,Spain,2010,3.92,retail
+601,Sweden,2010,3.99,retail
+602,Japan,2010,6.39,retail
+603,Norway,2010,4.48,retail
+604,Russian Federation,2010,7.03,retail
+605,Switzerland,2010,6.59,retail
+606,United Kingdom,2010,15.7,retail
+607,United States,2010,3.91,retail
+608,AVG,2010,5.77,retail
+609,Austria,2011,8.32,retail
+610,Belgium,2011,6.48,retail
+611,Bulgaria,2011,4.16,retail
+612,Cyprus,2011,6.06,retail
+613,Czechia,2011,6.58,retail
+614,Denmark,2011,6.92,retail
+615,Finland,2011,5.36,retail
+616,France,2011,4.13,retail
+617,Germany,2011,5.1,retail
+618,Hungary,2011,6.08,retail
+619,Italy,2011,8.52,retail
+620,Latvia,2011,8.67,retail
+621,Lithuania,2011,7.81,retail
+622,Luxembourg,2011,8.28,retail
+623,Malta,2011,14.81,retail
+624,Netherlands,2011,5.98,retail
+625,Poland,2011,4.14,retail
+626,Portugal,2011,5.35,retail
+627,Slovakia,2011,6.06,retail
+628,Slovenia,2011,4.8,retail
+629,Spain,2011,4.42,retail
+630,Sweden,2011,5.58,retail
+631,Japan,2011,7.35,retail
+632,Norway,2011,5.78,retail
+633,Russian Federation,2011,7.75,retail
+634,Switzerland,2011,,retail
+635,United Kingdom,2011,19.02,retail
+636,United States,2011,5.19,retail
+637,AVG,2011,6.99,retail
+638,Austria,2012,8.38,retail
+639,Belgium,2012,6.2,retail
+640,Bulgaria,2012,3.44,retail
+641,Cyprus,2012,6.36,retail
+642,Czechia,2012,7.13,retail
+643,Denmark,2012,6.72,retail
+644,Finland,2012,4.8,retail
+645,France,2012,3.92,retail
+646,Germany,2012,4.74,retail
+647,Hungary,2012,6.07,retail
+648,Italy,2012,8.49,retail
+649,Latvia,2012,8.08,retail
+650,Lithuania,2012,7.09,retail
+651,Luxembourg,2012,7.9,retail
+652,Malta,2012,14.15,retail
+653,Netherlands,2012,5.83,retail
+654,Poland,2012,4.16,retail
+655,Portugal,2012,5.69,retail
+656,Slovakia,2012,6.71,retail
+657,Slovenia,2012,4.48,retail
+658,Spain,2012,4.47,retail
+659,Sweden,2012,5.2,retail
+660,Japan,2012,7.57,retail
+661,Norway,2012,5.48,retail
+662,Russian Federation,2012,8.62,retail
+663,Switzerland,2012,,retail
+664,United Kingdom,2012,19.2,retail
+665,United States,2012,5.68,retail
+666,AVG,2012,6.91,retail
+667,Austria,2013,8.62,retail
+668,Belgium,2013,6.24,retail
+669,Bulgaria,2013,3.59,retail
+670,Cyprus,2013,6.47,retail
+671,Czechia,2013,7,retail
+672,Denmark,2013,6.36,retail
+673,Finland,2013,4.29,retail
+674,France,2013,3.92,retail
+675,Germany,2013,5.65,retail
+676,Hungary,2013,5.42,retail
+677,Italy,2013,8.99,retail
+678,Latvia,2013,7.52,retail
+679,Lithuania,2013,6.6,retail
+680,Luxembourg,2013,8.19,retail
+681,Malta,2013,14.99,retail
+682,Netherlands,2013,5.74,retail
+683,Poland,2013,3.92,retail
+684,Portugal,2013,5.79,retail
+685,Slovakia,2013,6.82,retail
+686,Slovenia,2013,4.78,retail
+687,Spain,2013,4.53,retail
+688,Sweden,2013,4.34,retail
+689,Japan,2013,6.05,retail
+690,Norway,2013,5.05,retail
+691,Russian Federation,2013,8.69,retail
+692,Switzerland,2013,,retail
+693,United Kingdom,2013,18.92,retail
+694,United States,2013,5.45,retail
+695,AVG,2013,6.81,retail
+696,Austria,2014,8.63,retail
+697,Belgium,2014,,retail
+698,Bulgaria,2014,3.75,retail
+699,Cyprus,2014,6.48,retail
+700,Czechia,2014,6.61,retail
+701,Denmark,2014,6.43,retail
+702,Finland,2014,4.31,retail
+703,France,2014,3.77,retail
+704,Germany,2014,5.72,retail
+705,Hungary,2014,4.86,retail
+706,Italy,2014,8.85,retail
+707,Latvia,2014,6.89,retail
+708,Lithuania,2014,6.55,retail
+709,Luxembourg,2014,7.92,retail
+710,Malta,2014,14.93,retail
+711,Netherlands,2014,5.71,retail
+712,Poland,2014,3.85,retail
+713,Portugal,2014,5.73,retail
+714,Slovakia,2014,6.67,retail
+715,Slovenia,2014,4.62,retail
+716,Spain,2014,4.44,retail
+717,Sweden,2014,4.11,retail
+718,Japan,2014,5.68,retail
+719,Norway,2014,7.5,retail
+720,Russian Federation,2014,7.65,retail
+721,Switzerland,2014,,retail
+722,United Kingdom,2014,20.56,retail
+723,United States,2014,4.99,retail
+724,AVG,2014,6.82,retail
+725,Austria,2015,7.44,retail
+726,Belgium,2015,,retail
+727,Bulgaria,2015,3.45,retail
+728,Cyprus,2015,5.3,retail
+729,Czechia,2015,5.75,retail
+730,Denmark,2015,5.85,retail
+731,Finland,2015,3.9,retail
+732,France,2015,3.11,retail
+733,Germany,2015,5.18,retail
+734,Hungary,2015,4.16,retail
+735,Italy,2015,7.48,retail
+736,Latvia,2015,6.57,retail
+737,Lithuania,2015,6.06,retail
+738,Luxembourg,2015,6.97,retail
+739,Malta,2015,12.8,retail
+740,Netherlands,2015,5.38,retail
+741,Poland,2015,3.28,retail
+742,Portugal,2015,4.99,retail
+743,Slovakia,2015,5.6,retail
+744,Slovenia,2015,4.03,retail
+745,Spain,2015,3.82,retail
+746,Sweden,2015,3.82,retail
+747,Japan,2015,5.6,retail
+748,Norway,2015,5.81,retail
+749,Russian Federation,2015,6.43,retail
+750,Switzerland,2015,,retail
+751,United Kingdom,2015,18.91,retail
+752,United States,2015,4.72,retail
+753,AVG,2015,6.02,retail
+754,Austria,2016,5.64,retail
+755,Belgium,2016,,retail
+756,Bulgaria,2016,3.79,retail
+757,Cyprus,2016,5.3,retail
+758,Czechia,2016,6.14,retail
+759,Denmark,2016,4.94,retail
+760,Finland,2016,3.67,retail
+761,France,2016,3.26,retail
+762,Germany,2016,5.05,retail
+763,Hungary,2016,4.31,retail
+764,Italy,2016,7.45,retail
+765,Latvia,2016,6.46,retail
+766,Lithuania,2016,6.08,retail
+767,Luxembourg,2016,7.24,retail
+768,Malta,2016,13.33,retail
+769,Netherlands,2016,4.77,retail
+770,Poland,2016,3.17,retail
+771,Portugal,2016,4.93,retail
+772,Slovakia,2016,5.74,retail
+773,Slovenia,2016,3.96,retail
+774,Spain,2016,3.73,retail
+775,Sweden,2016,3.48,retail
+776,Japan,2016,6.21,retail
+777,Norway,2016,5.56,retail
+778,Russian Federation,2016,6.65,retail
+779,Switzerland,2016,,retail
+780,United Kingdom,2016,16.29,retail
+781,United States,2016,4.39,retail
+782,AVG,2016,5.83,retail
+783,Austria,2017,6.22,retail
+784,Belgium,2017,,retail
+785,Bulgaria,2017,4.64,retail
+786,Cyprus,2017,5.5,retail
+787,Czechia,2017,6.58,retail
+788,Denmark,2017,5.03,retail
+789,Finland,2017,4.1,retail
+790,France,2017,3.4,retail
+791,Germany,2017,5.34,retail
+792,Hungary,2017,4.83,retail
+793,Italy,2017,7.67,retail
+794,Latvia,2017,6.69,retail
+795,Lithuania,2017,6.29,retail
+796,Luxembourg,2017,7.56,retail
+797,Malta,2017,14.05,retail
+798,Netherlands,2017,4.83,retail
+799,Poland,2017,3.45,retail
+800,Portugal,2017,5.04,retail
+801,Slovakia,2017,6,retail
+802,Slovenia,2017,4.2,retail
+803,Spain,2017,3.84,retail
+804,Sweden,2017,3.57,retail
+805,Japan,2017,5.95,retail
+806,Norway,2017,5.63,retail
+807,Russian Federation,2017,7.84,retail
+808,Switzerland,2017,,retail
+809,United Kingdom,2017,17.01,retail
+810,United States,2017,4.45,retail
+811,AVG,2017,6.14,retail
+812,Austria,2018,6.63,retail
+813,Belgium,2018,,retail
+814,Bulgaria,2018,4.58,retail
+815,Cyprus,2018,5.79,retail
+816,Czechia,2018,7.27,retail
+817,Denmark,2018,5.3,retail
+818,Finland,2018,4.24,retail
+819,France,2018,3.68,retail
+820,Germany,2018,5.49,retail
+821,Hungary,2018,4.83,retail
+822,Italy,2018,8.12,retail
+823,Latvia,2018,6.6,retail
+824,Lithuania,2018,6.4,retail
+825,Luxembourg,2018,,retail
+826,Malta,2018,15.15,retail
+827,Netherlands,2018,4.68,retail
+828,Poland,2018,3.75,retail
+829,Portugal,2018,5.36,retail
+830,Slovakia,2018,6.38,retail
+831,Slovenia,2018,,retail
+832,Spain,2018,4.1,retail
+833,Sweden,2018,3.24,retail
+834,Japan,2018,5.8,retail
+835,Norway,2018,5.75,retail
+836,Russian Federation,2018,7.38,retail
+837,Switzerland,2018,,retail
+838,United Kingdom,2018,18.4,retail
+839,United States,2018,4.3,retail
+840,AVG,2018,6.38,retail
+841,Austria,2019,6.17,retail
+842,Belgium,2019,,retail
+843,Bulgaria,2019,4.21,retail
+844,Cyprus,2019,5.39,retail
+845,Czechia,2019,6.7,retail
+846,Denmark,2019,4.85,retail
+847,Finland,2019,4,retail
+848,France,2019,3.47,retail
+849,Germany,2019,,retail
+850,Hungary,2019,4.35,retail
+851,Italy,2019,7.31,retail
+852,Latvia,2019,5.9,retail
+853,Lithuania,2019,5.86,retail
+854,Luxembourg,2019,,retail
+855,Malta,2019,14.27,retail
+856,Netherlands,2019,,retail
+857,Poland,2019,3.57,retail
+858,Portugal,2019,5.08,retail
+859,Slovakia,2019,6.11,retail
+860,Slovenia,2019,,retail
+861,Spain,2019,3.63,retail
+862,Sweden,2019,3.05,retail
+863,Japan,2019,5.71,retail
+864,Norway,2019,5.28,retail
+865,Russian Federation,2019,7.12,retail
+866,Switzerland,2019,,retail
+867,United Kingdom,2019,17.55,retail
+868,United States,2019,4.14,retail
+869,AVG,2019,6.08,retail
+0,AVG,1990,0.7153,ICO
+1,AVG,1991,0.668,ICO
+2,AVG,1992,0.5335,ICO
+3,AVG,1993,0.6163,ICO
+4,AVG,1994,1.3445,ICO
+5,AVG,1995,1.3842,ICO
+6,AVG,1996,1.0207,ICO
+7,AVG,1997,1.3391,ICO
+8,AVG,1998,1.0895,ICO
+9,AVG,1999,0.8571,ICO
+10,AVG,2000,0.6424,ICO
+11,AVG,2001,0.4559,ICO
+12,AVG,2002,0.4774,ICO
+13,AVG,2003,0.519,ICO
+14,AVG,2004,0.6215,ICO
+15,AVG,2005,0.8936,ICO
+16,AVG,2006,0.9575,ICO
+17,AVG,2007,1.0768,ICO
+18,AVG,2008,1.2425,ICO
+19,AVG,2009,1.1567,ICO
+20,AVG,2010,1.4724,ICO
+21,AVG,2011,2.1039,ICO
+22,AVG,2012,1.5634,ICO
+23,AVG,2013,1.1951,ICO
+24,AVG,2014,1.5526,ICO
+25,AVG,2015,1.2467,ICO
+26,AVG,2016,1.2731,ICO
+27,AVG,2017,1.2669,ICO
+28,AVG,2018,1.0903,ICO
+29,AVG,2019,1.0052,ICO
